@@ -1,0 +1,24 @@
+You can drag and drop images directly onto the Video Window.
+You can change the format of the uploaded image by changing the extension.  Supported types are bmp, jpg, png, ico, tif, tga, pcx, wmf, emf.
+You can enable and disable FTP uploading by right clicking on the icon in the system tray.
+You can convert an image into a watermark by adjusting it's Translucency value.
+You can inset your desktop capture by choosing to save it to disk, inseting that file in the image, and choose 'Refresh image on publishing'.
+When the combo box is highlighted on the Image Properties page, You can use the up and down cursor keys to scroll through images in the same directory.
+You can save your overlays to a file and load them again later. Click on file->Save Overlay.
+The HTML publisher can save you from having to code HTML pages.  It will generate HTML pages automatically and upload them to your site.
+You can right click an overlay element to edit it's properties.
+You can save screen shot's to disk.  Click Screen Shot Settings on the Uploading Settings page.
+You can make text translucent by selecting the background properties and adjusting the translucency value.
+You can make jpegs transparent by setting the transparency flag, then adjust the negative and positive key values until the transparent color disappears.
+You can make image uploads faster by not saving them to disk.
+You can let the application run from the system tray by simply minimizing it.
+You can set Video Publisher to start each time Windows starts.  See the General page in the Settings dialog box.
+WheresJames Video Publisher automatically reconnects video drivers and sets uploading status on startup.
+You can make your own schemes and have the HTML Publisher upload them.  See the help file for more details.
+WheresJames supports passive and non-passive FTP.  If you are behind a firewall, you should use passive FTP.
+Multiple backgrounds are provided for your HTML pages.  Use the HTML publisher to publish them automatically.
+
+
+
+
+

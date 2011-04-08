@@ -1,0 +1,2955 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Neutral resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_NEU)
+#ifdef _WIN32
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+#pragma code_page(1252)
+#endif //_WIN32
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// 24
+//
+
+1                       24      MOVEABLE PURE   "res\\Vp.exe.manifest"
+#endif    // Neutral resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+/////////////////////////////////////////////////////////////////////////////
+// English (U.S.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#define _AFX_NO_SPLITTER_RESOURCES\r\n"
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)\r\n"
+    "#ifdef _WIN32\r\n"
+    "LANGUAGE 9, 1\r\n"
+    "#pragma code_page(1252)\r\n"
+    "#endif\r\n"
+    "#include ""res\\Vp.rc2""  // non-Microsoft Visual C++ edited resources\r\n"
+    "#include ""afxres.rc""         // Standard components\r\n"
+    "#include ""afxprint.rc""       // printing/print preview resources\r\n"
+    "#endif\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDR_MAINFRAME           ICON    DISCARDABLE     "res\\Vp.ico"
+IDR_VPTYPE              ICON    DISCARDABLE     "res\\VpDoc.ico"
+IDI_SMALLBULB           ICON    DISCARDABLE     "res\\ico00006.ico"
+IDI_DATE                ICON    DISCARDABLE     "res\\ico00001.ico"
+IDI_IMAGE               ICON    DISCARDABLE     "res\\image.ico"
+IDI_RECT                ICON    DISCARDABLE     "res\\ico00002.ico"
+IDI_TIME                ICON    DISCARDABLE     "res\\time.ico"
+IDI_WATERMARK           ICON    DISCARDABLE     "res\\ico00003.ico"
+IDI_THRESHOLD           ICON    DISCARDABLE     "res\\threshol.ico"
+IDI_VIDEO               ICON    DISCARDABLE     "res\\video.ico"
+IDI_DITHER              ICON    DISCARDABLE     "res\\dither.ico"
+IDI_SPRINT              ICON    DISCARDABLE     "res\\ico00008.ico"
+IDI_TEXT                ICON    DISCARDABLE     "res\\icon1.ico"
+IDI_CLOSE               ICON    DISCARDABLE     "res\\close.ico"
+IDI_WINDOWS             ICON    DISCARDABLE     "res\\windows.ico"
+IDI_MINIMIZE            ICON    DISCARDABLE     "res\\minimize.ico"
+IDI_BARCODE             ICON    DISCARDABLE     "res\\Barcode.ico"
+IDI_SERVER              ICON    DISCARDABLE     "res\\server.ico"
+IDI_WRENCH              ICON    DISCARDABLE     "res\\icon2.ico"
+IDI_FILE                ICON    DISCARDABLE     "res\\ico00004.ico"
+IDI_FOLDER              ICON    DISCARDABLE     "res\\folder.ico"
+IDI_TV_GREEN            ICON    DISCARDABLE     "res\\tv.ico"
+IDI_TV_RED              ICON    DISCARDABLE     "res\\tv_red.ico"
+IDI_TV_BLUE             ICON    DISCARDABLE     "res\\tv_yello.ico"
+IDI_URL                 ICON    DISCARDABLE     "res\\url.ico"
+IDI_SCREENSHOT          ICON    DISCARDABLE     "res\\screensh.ico"
+IDI_STEXT               ICON    DISCARDABLE     "res\\stext.ico"
+IDI_SMALL_LETTER        ICON    DISCARDABLE     "res\\letter.ico"
+IDI_DISK                ICON    DISCARDABLE     "res\\disk.ico"
+IDI_WORLD               ICON    DISCARDABLE     "res\\ico00005.ico"
+IDI_UPLOAD              ICON    DISCARDABLE     "res\\upload.ico"
+IDI_LIGHTBULB           ICON    DISCARDABLE     "res\\lightbul.ico"
+IDI_MIRROR              ICON    DISCARDABLE     "res\\mirror.ico"
+IDI_FLIP                ICON    DISCARDABLE     "res\\flip.ico"
+IDI_GRAYSCALE           ICON    DISCARDABLE     "res\\grayscal.ico"
+IDI_ROTATE              ICON    DISCARDABLE     "res\\ico00025.ico"
+IDI_NEGATIVE            ICON    DISCARDABLE     "res\\negative.ico"
+IDI_RESAMPLE            ICON    DISCARDABLE     "res\\resample.ico"
+IDI_CROP                ICON    DISCARDABLE     "res\\crop.ico"
+IDI_NOISE               ICON    DISCARDABLE     "res\\noise.ico"
+IDI_MEDIAN              ICON    DISCARDABLE     "res\\median.ico"
+IDI_GAMMA               ICON    DISCARDABLE     "res\\gamma.ico"
+IDI_SHIFT               ICON    DISCARDABLE     "res\\shift.ico"
+IDI_COLORIZE            ICON    DISCARDABLE     "res\\colorize.ico"
+IDI_LIGHT               ICON    DISCARDABLE     "res\\light.ico"
+IDI_ERODE               ICON    DISCARDABLE     "res\\erode.ico"
+IDI_DILATE              ICON    DISCARDABLE     "res\\dilate.ico"
+IDI_BULB                ICON    DISCARDABLE     "res\\ico00007.ico"
+IDI_LETTER              ICON    DISCARDABLE     "res\\ico00019.ico"
+IDI_FTP                 ICON    DISCARDABLE     "res\\ftp.ico"
+IDI_BLUEDISK            ICON    DISCARDABLE     "res\\bluedisk.ico"
+IDI_MOTION              ICON    DISCARDABLE     "res\\motion.ico"
+IDI_COLOR               ICON    DISCARDABLE     "res\\color.ico"
+IDI_DIR_CLOSED          ICON    DISCARDABLE     "res\\dir_clos.ico"
+IDI_DIR_OPEN            ICON    DISCARDABLE     "res\\folderop.ico"
+IDI_DRIVE_CDROM         ICON    DISCARDABLE     "res\\drive_cd.ico"
+IDI_DRIVE_FIXED         ICON    DISCARDABLE     "res\\HDrive.ico"
+IDI_DRIVE_NO_ROOT_DIR   ICON    DISCARDABLE     "res\\no_root_.ico"
+IDI_DRIVE_RAMDISK       ICON    DISCARDABLE     "res\\drive_ra.ico"
+IDI_DRIVE_REMOTE        ICON    DISCARDABLE     "res\\Modem2.ico"
+IDI_DRIVE_REMOVEABLE    ICON    DISCARDABLE     "res\\35Floppy.ico"
+IDI_DRIVE_UNKNOWN       ICON    DISCARDABLE     "res\\Win65.ico"
+IDI_FILE1               ICON    DISCARDABLE     "res\\file1.ico"
+IDI_CGI                 ICON    DISCARDABLE     "res\\cgi.ico"
+IDI_FONT                ICON    DISCARDABLE     "res\\font.ico"
+IDI_SMALLFRAME          ICON    DISCARDABLE     "res\\bigframe.ico"
+IDI_BLOCKS              ICON    DISCARDABLE     "res\\blocks.ico"
+IDI_TICK_RIGHT          ICON    DISCARDABLE     "res\\ico00009.ico"
+IDI_TICK_LEFT           ICON    DISCARDABLE     "res\\ico00010.ico"
+IDI_TICK_UP             ICON    DISCARDABLE     "res\\tick_up.ico"
+IDI_TICK_DOWN           ICON    DISCARDABLE     "res\\tick_dow.ico"
+IDI_DS_TICK_RIGHT       ICON    DISCARDABLE     "res\\ds_tick_.ico"
+IDI_DS_TICK_LEFT        ICON    DISCARDABLE     "res\\ico00011.ico"
+IDI_DS_TICK_UP          ICON    DISCARDABLE     "res\\ico00012.ico"
+IDI_DS_TICK_DOWN        ICON    DISCARDABLE     "res\\ico00013.ico"
+IDI_CAMERA2             ICON    DISCARDABLE     "res\\camera.ico"
+IDI_SETUPWIZARD         ICON    DISCARDABLE     "res\\ico00014.ico"
+IDI_WAND                ICON    DISCARDABLE     "res\\wand.ico"
+IDI_FRAME               ICON    DISCARDABLE     "res\\frame.ico"
+IDI_GEARS               ICON    DISCARDABLE     "res\\gears.ico"
+IDI_X                   ICON    DISCARDABLE     "res\\icon3.ico"
+IDI_WHITEKNIGHT         ICON    DISCARDABLE     "res\\whitekni.ico"
+IDI_PRINTER             ICON    DISCARDABLE     "res\\printer.ico"
+IDI_SERVERUPLOAD        ICON    DISCARDABLE     "res\\ftpserve.ico"
+IDI_SAVEDISK            ICON    DISCARDABLE     "res\\savedisk.ico"
+IDI_LARGEGEARS          ICON    DISCARDABLE     "res\\largegea.ico"
+IDI_LARGEWHITEKNIGHT    ICON    DISCARDABLE     "res\\largewhi.ico"
+IDI_WEB                 ICON    DISCARDABLE     "res\\ico00015.ico"
+IDI_CAMERA              ICON    DISCARDABLE     "res\\ico00016.ico"
+IDI_LARGEWRENCH         ICON    DISCARDABLE     "res\\largewre.ico"
+IDI_XPCLOSE             ICON    DISCARDABLE     "res\\ico00017.ico"
+IDI_CHAT                ICON    DISCARDABLE     "res\\users.ico"
+IDI_USERS               ICON    DISCARDABLE     "res\\ico00018.ico"
+IDI_REFRESH             ICON    DISCARDABLE     "res\\ico00020.ico"
+IDI_TIP                 ICON    DISCARDABLE     "res\\ico00021.ico"
+IDI_HELP                ICON    DISCARDABLE     "res\\ico00022.ico"
+IDI_SMALL_CAMERA        ICON    DISCARDABLE     "res\\ico00023.ico"
+IDI_TOOLBAR             ICON    DISCARDABLE     "res\\ico00024.ico"
+IDI_NEWIMAGEWIZARD      ICON    DISCARDABLE     "res\\newimage.ico"
+IDI_PUBLISHING          ICON    DISCARDABLE     "res\\publishi.ico"
+IDI_GREENREFRESH        ICON    DISCARDABLE     "res\\greenref.ico"
+IDI_PROPERTIES          ICON    DISCARDABLE     "res\\properti.ico"
+IDI_SMALL_BLOCKS        ICON    DISCARDABLE     "res\\small_bl.ico"
+IDI_SMALL_CAMERA_SETTINGS ICON    DISCARDABLE     "res\\small_ca.ico"
+IDI_ABOUT               ICON    DISCARDABLE     "res\\ico00026.ico"
+IDI_OV_TEXT             ICON    DISCARDABLE     "res\\ico00027.ico"
+IDI_OV_SPECIALTEXT      ICON    DISCARDABLE     "res\\ov_speci.ico"
+IDI_OV_RECT             ICON    DISCARDABLE     "res\\ov_rect.ico"
+IDI_OV_TIME             ICON    DISCARDABLE     "res\\ico00028.ico"
+IDI_OV_DATE             ICON    DISCARDABLE     "res\\ico00029.ico"
+IDI_OV_IMAGE            ICON    DISCARDABLE     "res\\ov_image.ico"
+IDI_OV_WATERMARK        ICON    DISCARDABLE     "res\\ico00030.ico"
+IDI_OV_VIDEO            ICON    DISCARDABLE     "res\\ov_video.ico"
+IDI_OV_URL              ICON    DISCARDABLE     "res\\ico00031.ico"
+IDI_OV_SCREENSHOT       ICON    DISCARDABLE     "res\\ov_scree.ico"
+IDI_CHECK               ICON    DISCARDABLE     "res\\check.ico"
+IDI_UNCHECK             ICON    DISCARDABLE     "res\\uncheck.ico"
+IDI_SMALL_USERS         ICON    DISCARDABLE     "res\\ico00032.ico"
+IDI_BACK                ICON    DISCARDABLE     "res\\back.ico"
+IDI_FULLSIZE            ICON    DISCARDABLE     "res\\fullsize.ico"
+IDI_FX                  ICON    DISCARDABLE     "res\\fx.ico"
+IDI_NEXT                ICON    DISCARDABLE     "res\\next.ico"
+IDI_ROTATELEFT          ICON    DISCARDABLE     "res\\rotatele.ico"
+IDI_ROTATERIGHT         ICON    DISCARDABLE     "res\\rotateri.ico"
+IDI_ZOOMIN              ICON    DISCARDABLE     "res\\zoomin.ico"
+IDI_ZOOMOUT             ICON    DISCARDABLE     "res\\zoomout.ico"
+IDI_DARKEN              ICON    DISCARDABLE     "res\\darken.ico"
+IDI_LIGHTEN             ICON    DISCARDABLE     "res\\lighten.ico"
+IDI_EYEBALL             ICON    DISCARDABLE     "res\\ico00033.ico"
+IDI_EYELOOK             ICON    DISCARDABLE     "res\\ico00034.ico"
+IDI_RECORD              ICON    DISCARDABLE     "res\\record.ico"
+IDI_PINOUT              ICON    DISCARDABLE     "res\\pinout.ico"
+IDI_PININ               ICON    DISCARDABLE     "res\\pinin.ico"
+IDI_SUNKENDISK          ICON    DISCARDABLE     "res\\sunkendi.ico"
+IDI_BLANK               ICON    DISCARDABLE     "res\\blank.ico"
+IDI_EYELOOK2            ICON    DISCARDABLE     "res\\eyelook2.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDR_MAINFRAME           BITMAP  MOVEABLE PURE   "res\\Toolbar.bmp"
+IDT_INSERT              BITMAP  MOVEABLE PURE   "res\\idt_over.bmp"
+IDB_LIGHTBULB           BITMAP  DISCARDABLE     "res\\litebulb.bmp"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Toolbar
+//
+
+IDR_MAINFRAME TOOLBAR DISCARDABLE  16, 15
+BEGIN
+    BUTTON      ID_NEWIMAGE
+    BUTTON      ID_DELETEIMAGE
+    SEPARATOR
+    BUTTON      ID_ENABLEPUBLISHING
+    BUTTON      ID_REFRESH
+    SEPARATOR
+    BUTTON      ID_EDIT_PROPERTIES
+    BUTTON      ID_VIEWIMAGE
+    SEPARATOR
+    BUTTON      ID_TRAYICON_EMAILIMAGE
+    BUTTON      ID_SAVEIMAGE
+    SEPARATOR
+    BUTTON      ID_OPTIONS_SETTINGS
+    BUTTON      ID_OPTIONS_HTMLBUILDER
+    SEPARATOR
+    BUTTON      ID_SIMPLE
+    BUTTON      ID_SETUPSIMPLE
+    SEPARATOR
+    BUTTON      ID_APP_ABOUT
+END
+
+IDT_INSERT TOOLBAR DISCARDABLE  16, 15
+BEGIN
+    BUTTON      ID_INSERTTEXT
+    BUTTON      ID_INSERTSTEXT
+    SEPARATOR
+    BUTTON      ID_INSERTRECT
+    SEPARATOR
+    BUTTON      ID_INSERTTIME
+    BUTTON      ID_INSERTDATE
+    SEPARATOR
+    BUTTON      ID_INSERTIMAGE
+    BUTTON      ID_INSERTWATERMARK
+    SEPARATOR
+    BUTTON      ID_INSERTVIDEO
+    BUTTON      ID_INSERTURL
+    BUTTON      ID_INSERTSCREENSHOT
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+IDR_MAINFRAME MENU PRELOAD DISCARDABLE 
+BEGIN
+    POPUP "&File"
+    BEGIN
+        MENUITEM "&New Image",                  ID_NEWIMAGE
+        MENUITEM "&Delete Image",               ID_DELETEIMAGE
+        MENUITEM SEPARATOR
+        MENUITEM "&Load Overlay",               ID_FILE_LOADOVERLAY
+        MENUITEM "&Merge Overlay",              ID_FILE_MERGEOVERLAY
+        MENUITEM "&Save Overlay",               ID_FILE_SAVEOVERLAY
+        MENUITEM SEPARATOR
+        MENUITEM "&Print...\tCtrl+P",           ID_FILE_PRINT
+        MENUITEM "Print Pre&view",              ID_FILE_PRINT_PREVIEW
+        MENUITEM "P&rint Setup...",             ID_FILE_PRINT_SETUP
+        MENUITEM SEPARATOR
+        MENUITEM "E&xit",                       ID_APP_EXIT
+    END
+    POPUP "&Edit"
+    BEGIN
+        MENUITEM "Cu&t\tCtrl+X",                ID_EDIT_CUT
+        MENUITEM "&Copy\tCtrl+C",               ID_EDIT_COPY
+        MENUITEM "&Paste\tCtrl+V",              ID_EDIT_PASTE
+        MENUITEM SEPARATOR
+        MENUITEM "P&roperties",                 ID_EDIT_PROPERTIES
+    END
+    POPUP "&View"
+    BEGIN
+        MENUITEM "&Toolbar",                    ID_VIEW_TOOLBAR
+        MENUITEM "&Status Bar",                 ID_VIEW_STATUS_BAR
+        MENUITEM "&Overlay Bar",                ID_VIEW_OVERLAYBAR
+        MENUITEM "&Image List",                 ID_VIEW_PUBIMGVIEW
+        MENUITEM "&Web Server Bar",             ID_VIEW_WEBSERVER
+        MENUITEM "&Graph Bar",                  ID_VIEW_GRAPHBAR
+        MENUITEM "&Properties",                 ID_VIEW_PROPERTIES
+        MENUITEM SEPARATOR
+        MENUITEM "Event Log",                   ID_VIEW_EVENTLOG
+    END
+    POPUP "&Options"
+    BEGIN
+        MENUITEM "&Settings",                   ID_OPTIONS_SETTINGS
+        MENUITEM "&HTML Publisher",             ID_OPTIONS_HTMLBUILDER
+        MENUITEM SEPARATOR
+        MENUITEM "Setup Wizard",                ID_OPTIONS_SETUPWIZARD
+    END
+    POPUP "&Help"
+    BEGIN
+        MENUITEM "&About Vp...",                ID_APP_ABOUT
+        MENUITEM "Help...",                     ID_HELP_HELP
+        MENUITEM SEPARATOR
+        MENUITEM "Check For Update",            ID_OPTIONS_CHECKFORUPDATE
+    END
+END
+
+IDM_POPUP MENU DISCARDABLE 
+BEGIN
+    POPUP "_POPUP_"
+    BEGIN
+        MENUITEM "Copy",                        ID_POPUP_COPY
+        MENUITEM "Cut",                         ID_POPUP_CUT
+        MENUITEM "Paste",                       ID_POPUP_PASTE
+        MENUITEM "Delete",                      ID_POPUP_DELETE
+        MENUITEM "Duplicate",                   ID_POPUP_DUPLICATE
+        MENUITEM SEPARATOR
+        MENUITEM "Properties",                  ID_POPUP_PROPERTIES
+    END
+END
+
+IDM_TRAYMENU MENU DISCARDABLE 
+BEGIN
+    POPUP "_POPUP_"
+    BEGIN
+        MENUITEM "&About",                      ID_TRAYICON_ABOUT
+        MENUITEM SEPARATOR
+        MENUITEM "E-&mail Image",               ID_TRAYICON_EMAILIMAGE
+        MENUITEM SEPARATOR
+        MENUITEM "&Enable Publishing",          ID_TRAYICON_ENABLEPUBLISHING
+        MENUITEM SEPARATOR
+        MENUITEM "&Exit",                       ID_TRAYICON_EXIT
+    END
+END
+
+IDM_IMAGELIST MENU DISCARDABLE 
+BEGIN
+    POPUP "_IMAGELIST_"
+    BEGIN
+        MENUITEM "View",                        ID_IMAGELIST_VIEW
+        MENUITEM SEPARATOR
+        MENUITEM "New Image",                   ID_IMAGELIST_NEWIMAGE
+        MENUITEM "Delete Image",                ID_IMAGELIST_DELETEIMAGE
+        MENUITEM SEPARATOR
+        MENUITEM "Properties",                  ID_IMAGELIST_PROPERTIES
+    END
+END
+
+IDR_MENU2 MENU DISCARDABLE 
+BEGIN
+    POPUP "_EFFECTS_"
+    BEGIN
+        MENUITEM "Flip Horizontally",           ID_EFFECTS_FLIPHORIZONTALLY
+        MENUITEM "Flip Vertically",             ID_EFFECTS_FLIPVERTICALLY
+        MENUITEM "Rotate Right",                ID_EFFECTS_ROTATERIGHT
+        MENUITEM "Rotate Left",                 ID_EFFECTS_ROTATELEFT
+        MENUITEM SEPARATOR
+        MENUITEM "Grayscale",                   ID_EFFECTS_GRAYSCALE
+        MENUITEM "Negative",                    ID_EFFECTS_NEGATIVE
+        MENUITEM SEPARATOR
+        MENUITEM "Lighten",                     ID_EFFECTS_LIGHTEN
+        MENUITEM "Darken",                      ID_EFFECTS_DARKEN
+    END
+END
+
+IDM_IMGMENU MENU DISCARDABLE 
+BEGIN
+    POPUP "_IMGLIST_"
+    BEGIN
+        MENUITEM "Paste From Clipboard",        ID_IMGLIST_FROMCLIPBOARD
+        MENUITEM SEPARATOR
+        MENUITEM "Delete Image",                ID_IMGLIST_DELETEIMAGE
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Accelerator
+//
+
+IDR_MAINFRAME ACCELERATORS PRELOAD MOVEABLE PURE 
+BEGIN
+    "N",            ID_FILE_NEW,            VIRTKEY, CONTROL
+    "O",            ID_FILE_OPEN,           VIRTKEY, CONTROL
+    "S",            ID_FILE_SAVE,           VIRTKEY, CONTROL
+    "P",            ID_FILE_PRINT,          VIRTKEY, CONTROL
+    "Z",            ID_EDIT_UNDO,           VIRTKEY, CONTROL
+    "X",            ID_EDIT_CUT,            VIRTKEY, CONTROL
+    "C",            ID_EDIT_COPY,           VIRTKEY, CONTROL
+    "V",            ID_EDIT_PASTE,          VIRTKEY, CONTROL
+    VK_BACK,        ID_EDIT_UNDO,           VIRTKEY, ALT
+    VK_DELETE,      ID_EDIT_CUT,            VIRTKEY, SHIFT
+    VK_INSERT,      ID_EDIT_COPY,           VIRTKEY, CONTROL
+    VK_INSERT,      ID_EDIT_PASTE,          VIRTKEY, SHIFT
+    VK_F6,          ID_NEXT_PANE,           VIRTKEY 
+    VK_F6,          ID_PREV_PANE,           VIRTKEY, SHIFT
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_CHOOSEDRIVER DIALOG DISCARDABLE  0, 0, 282, 111
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Choose Driver"
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,225,90,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,170,90,50,14
+    LISTBOX         IDC_DRIVERS,5,15,270,65,LBS_SORT | LBS_NOINTEGRALHEIGHT | 
+                    WS_VSCROLL | WS_TABSTOP
+    LTEXT           "Available Capture Devices",IDC_STATIC,10,5,185,8
+END
+
+CG_IDD_PUBIMGVIEW DIALOG DISCARDABLE  0, 0, 266, 36
+STYLE WS_CHILD | WS_CLIPCHILDREN
+FONT 8, "MS Sans Serif"
+BEGIN
+END
+
+CG_IDD_SERVER DIALOG DISCARDABLE  0, 0, 441, 26
+STYLE WS_CHILD | WS_CLIPCHILDREN
+FONT 8, "MS Sans Serif"
+BEGIN
+    RTEXT           "Users:",IDC_STATIC,135,5,30,8
+    RTEXT           "Hits:",IDC_STATIC,135,15,29,8
+    CONTROL         "Run Web Server",IDC_RUN,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,5,8,80,10
+    LTEXT           "0",IDC_USERS,170,5,50,8
+    LTEXT           "0",IDC_HITS,170,15,50,8
+    RTEXT           "Local:",IDC_STATIC,225,5,30,8
+    RTEXT           "Internet:",IDC_STATIC,225,15,30,8
+    LTEXT           "",IDC_LOCALADDRESS,260,5,165,8
+    LTEXT           "",IDC_REMOTEADDRESS,260,15,165,8
+    CONTROL         "",IDC_TOOLBAR,"Static",SS_BLACKRECT | NOT WS_VISIBLE,85,
+                    5,40,15
+END
+
+IDD_NEWPUBIMG DIALOG DISCARDABLE  0, 0, 277, 207
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "New Image"
+FONT 8, "MS Sans Serif"
+BEGIN
+    EDITTEXT        IDC_NAME,15,20,175,14,ES_AUTOHSCROLL
+    CONTROL         "Blank",IDC_BCKTYPE,"Button",BS_AUTORADIOBUTTON | 
+                    WS_GROUP,15,105,70,10
+    CONTROL         "Video",IDC_BCKTYPE2,"Button",BS_AUTORADIOBUTTON,15,125,
+                    70,10
+    CONTROL         "Image",IDC_BCKTYPE3,"Button",BS_AUTORADIOBUTTON,15,160,
+                    70,10
+    COMBOBOX        IDC_VIDEO,15,136,245,89,CBS_DROPDOWNLIST | CBS_SORT | 
+                    WS_VSCROLL | WS_TABSTOP
+    PUSHBUTTON      "...",IDC_CHOOSE_IMAGE,245,170,15,14
+    DEFPUSHBUTTON   "OK",IDOK,220,5,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,220,22,50,14
+    LTEXT           "Name",IDC_STATIC,15,10,130,8
+    GROUPBOX        "Image Type",IDC_STATIC,5,90,265,105
+    COMBOBOX        IDC_IMAGE,15,170,225,75,CBS_DROPDOWN | CBS_SORT | 
+                    WS_VSCROLL | WS_TABSTOP
+    CONTROL         "Custom Size",IDC_CUSTOMSIZE,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,15,45,75,10
+    EDITTEXT        IDC_WIDTH,30,60,50,14,ES_AUTOHSCROLL
+    LTEXT           "X",IDC_STATIC,85,64,10,8
+    EDITTEXT        IDC_HEIGHT,95,60,50,14,ES_AUTOHSCROLL
+END
+
+IDD_PROPERTIES DIALOGEX 0, 0, 267, 111
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+EXSTYLE WS_EX_TOOLWINDOW
+CAPTION "Properties"
+FONT 8, "MS Sans Serif", 0, 0, 0x1
+BEGIN
+    LTEXT           "",IDC_BLANK,132,48,105,45,NOT WS_GROUP
+    CONTROL         "Tab1",IDC_TAB,"SysTabControl32",0x0,5,5,170,70
+END
+
+IDD_PG_DATE DIALOG DISCARDABLE  0, 0, 256, 91
+STYLE WS_CHILD
+FONT 8, "MS Sans Serif"
+BEGIN
+    GROUPBOX        "GMT",IDC_STATIC,10,5,85,35
+    CONTROL         "Local",IDC_GMT,"Button",BS_AUTORADIOBUTTON | WS_GROUP,
+                    25,15,50,10
+    CONTROL         "GMT",IDC_GMT2,"Button",BS_AUTORADIOBUTTON,25,25,50,10
+    COMBOBOX        IDC_FORMAT,115,25,120,95,CBS_DROPDOWNLIST | WS_VSCROLL | 
+                    WS_TABSTOP
+    LTEXT           "Format Type",IDC_STATIC,115,15,85,8
+    EDITTEXT        IDC_SEP,115,55,120,14,ES_AUTOHSCROLL
+    LTEXT           "Format String",IDC_STATIC,115,45,69,8
+    CONTROL         "Digital",IDC_STYLE2,"Button",BS_AUTORADIOBUTTON | 
+                    WS_GROUP,25,60,50,10
+    GROUPBOX        "Style",IDC_STATIC,10,50,85,35
+    CONTROL         "Analog",IDC_STYLE3,"Button",BS_AUTORADIOBUTTON,25,70,50,
+                    10
+END
+
+IDD_PG_DRAWINGORDER DIALOGEX 0, 0, 256, 91
+STYLE WS_CHILD
+FONT 8, "MS Sans Serif", 0, 0, 0x1
+BEGIN
+    CONTROL         "List1",IDC_LIST,"SysListView32",LVS_REPORT | 
+                    LVS_SINGLESEL | LVS_SHOWSELALWAYS | LVS_NOCOLUMNHEADER | 
+                    WS_BORDER | WS_TABSTOP,5,5,180,75,WS_EX_CLIENTEDGE
+    PUSHBUTTON      "Move Up",IDC_MOVEUP,195,15,50,14
+    PUSHBUTTON      "Move Down",IDC_MOVEDOWN,195,39,50,14
+    CONTROL         "Fixed Order",IDC_FIXEDORDER,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,195,65,55,10
+END
+
+IDD_PG_IMAGE DIALOG DISCARDABLE  0, 0, 256, 91
+STYLE WS_CHILD
+FONT 8, "MS Sans Serif"
+BEGIN
+    COMBOBOX        IDC_FILES,5,20,220,75,CBS_DROPDOWN | CBS_SORT | 
+                    WS_VSCROLL | WS_TABSTOP
+    PUSHBUTTON      "...",IDC_CHOOSE_FILENAME,230,20,19,14
+    EDITTEXT        IDC_TRANSLUCENCY,5,71,90,14,ES_AUTOHSCROLL
+    LTEXT           "Filename",IDC_STATIC,5,10,100,8
+    LTEXT           "Translucency (0~100%)",IDC_STATIC,5,60,90,8
+    CONTROL         "Real Size",IDC_REALSIZE,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,125,45,75,10
+    PUSHBUTTON      "Image Effects",IDC_EFFECTS,125,60,100,14
+    CONTROL         "Correct Aspect Ratio",IDC_ASPECT,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,5,45,110,10
+END
+
+IDD_PG_RECT DIALOG DISCARDABLE  0, 0, 256, 91
+STYLE WS_CHILD
+FONT 8, "MS Sans Serif"
+BEGIN
+    CONTROL         "",IDC_COLORBOX,"Static",SS_BLACKRECT | SS_SUNKEN,30,35,
+                    50,20
+    PUSHBUTTON      "Color",IDC_COLOR,30,55,50,14
+    CONTROL         "Background",IDC_BCK,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,15,15,85,10
+    EDITTEXT        IDC_TRANSLUCENCY,150,61,90,14,ES_AUTOHSCROLL
+    LTEXT           "Translucency (0~100%)",IDC_TTEXT,150,50,90,8
+    CONTROL         "Border",IDC_BORDER,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,150,15,90,10
+    CONTROL         "Foundered",IDC_FOUNDERED,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,160,30,70,10
+END
+
+IDD_PG_TEXT DIALOG DISCARDABLE  0, 0, 257, 90
+STYLE WS_CHILD
+FONT 8, "MS Sans Serif"
+BEGIN
+    EDITTEXT        IDC_TEXT,5,55,245,30,ES_MULTILINE | ES_WANTRETURN | 
+                    WS_VSCROLL
+    PUSHBUTTON      "Font",IDC_FONT,5,5,40,14
+    LTEXT           "",IDC_FONTSTR,45,5,155,15,SS_CENTERIMAGE | SS_SUNKEN
+    PUSHBUTTON      "Color",IDC_COLOR,205,5,30,15
+    LTEXT           "",IDC_COLORBOX,235,5,15,15,SS_SUNKEN
+    EDITTEXT        IDC_ESCAPEMENT,211,25,40,12,ES_AUTOHSCROLL
+    RTEXT           "Rotation (.1 deg)",-1,145,27,60,11
+    EDITTEXT        IDC_FONTWIDTH,90,25,40,12,ES_AUTOHSCROLL
+    RTEXT           "Width",-1,60,27,24,8
+    LTEXT           "Text",-1,5,45,15,8
+    PUSHBUTTON      "Charmap",IDC_CHARMAP,5,25,40,14
+    EDITTEXT        IDC_SHADOW,90,40,40,12,ES_AUTOHSCROLL
+    RTEXT           "Shadow",-1,50,42,34,8
+    CONTROL         "Auto Size Selection Box",IDC_AUTOSIZE,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,150,40,100,10
+END
+
+IDD_PG_TEXTFLAGS DIALOG DISCARDABLE  0, 0, 257, 90
+STYLE WS_CHILD
+FONT 8, "MS Sans Serif"
+BEGIN
+    CONTROL         "Like Edit Control",IDC_EDITCONTROL,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,165,65,70,10
+    CONTROL         "String Ellipsis",IDC_END_ELLIPSIS,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,165,35,65,10
+    CONTROL         "Path Ellipsis",IDC_PATH_ELLIPSIS,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,165,50,60,10
+    CONTROL         "Expand Tabs",IDC_EXPANDTABS,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,80,50,65,10
+    CONTROL         "External Leading",IDC_EXTERNALLEADING,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,165,20,70,10
+    CONTROL         "No Clipping",IDC_NOCLIP,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,80,35,65,10
+    CONTROL         "No Prefix Processing",IDC_NOPREFIX,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,165,80,85,10
+    CONTROL         "Right to Left Reading",IDC_RTLREADING,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,165,5,85,10
+    CONTROL         "Single Line",IDC_SINGLELINE,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,80,5,60,10
+    COMBOBOX        IDC_HALIGN,5,15,65,65,CBS_DROPDOWNLIST | WS_VSCROLL | 
+                    WS_TABSTOP
+    LTEXT           "Horizontal Align",IDC_STATIC,5,5,65,8
+    COMBOBOX        IDC_VALIGN,5,45,65,65,CBS_DROPDOWNLIST | WS_VSCROLL | 
+                    WS_TABSTOP
+    LTEXT           "Vertical Align",IDC_STATIC,5,35,65,8
+    CONTROL         "Word Break",IDC_WORDBREAK,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,80,20,70,10
+    CONTROL         "Multiline Center",IDC_MULTICENTER,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,80,65,70,10
+    CONTROL         "Escapement Center",IDC_ESCAPEMENTCENTER,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,80,80,80,10
+END
+
+IDD_PG_TIME DIALOG DISCARDABLE  0, 0, 256, 91
+STYLE WS_CHILD
+FONT 8, "MS Sans Serif"
+BEGIN
+    GROUPBOX        "GMT",IDC_STATIC,5,20,80,45
+    CONTROL         "Local",IDC_GMT,"Button",BS_AUTORADIOBUTTON | WS_GROUP,
+                    15,33,60,10
+    CONTROL         "GMT",IDC_GMT2,"Button",BS_AUTORADIOBUTTON,15,46,60,10
+    CONTROL         "Digital",IDC_STYLE,"Button",BS_AUTORADIOBUTTON | 
+                    WS_GROUP,105,35,50,10
+    GROUPBOX        "Style",IDC_STATIC,95,5,155,80
+    CONTROL         "Analog",IDC_STYLE2,"Button",BS_AUTORADIOBUTTON,105,20,
+                    55,10
+    EDITTEXT        IDC_FORMATSTR,115,60,125,14,ES_AUTOHSCROLL
+    LTEXT           "Time Format",IDC_STATIC,115,50,70,8
+END
+
+IDD_PG_TRANS DIALOGEX 0, 0, 256, 96
+STYLE WS_CHILD
+FONT 8, "MS Sans Serif", 0, 0, 0x1
+BEGIN
+    CONTROL         "Transparency",IDC_TRANSPARENCY,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,5,8,80,10
+    PUSHBUTTON      "Transparent Color",IDC_CHOOSE_COLOR,120,5,75,14
+    CONTROL         "",IDC_COLORBOX,"Static",SS_BLACKRECT,95,5,25,15,
+                    WS_EX_CLIENTEDGE
+    CONTROL         "Slider1",IDC_SLIDEPOSITIVE,"msctls_trackbar32",TBS_BOTH | 
+                    TBS_NOTICKS | WS_TABSTOP,5,73,195,15
+    LTEXT           "Positive",IDC_TXT_POSITIVE,10,63,80,8
+    EDITTEXT        IDC_POSITIVE,205,73,45,14,ES_AUTOHSCROLL
+    CONTROL         "Slider1",IDC_SLIDENEGATIVE,"msctls_trackbar32",TBS_BOTH | 
+                    TBS_NOTICKS | WS_TABSTOP,5,45,195,15
+    LTEXT           "Negative",IDC_TXT_NEGATIVE,10,35,80,8
+    EDITTEXT        IDC_NEGATIVE,205,45,45,14,ES_AUTOHSCROLL
+    CONTROL         "No Smoothing",IDC_NOSMOOTHING,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,15,21,75,10
+END
+
+IDD_ABOUTBOX DIALOG DISCARDABLE  0, 0, 292, 70
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "About WheresJames Webcam Publisher"
+FONT 8, "MS Sans Serif"
+BEGIN
+    ICON            IDR_MAINFRAME,IDC_STATIC,11,17,20,20
+    LTEXT           "WheresJames Webcam Publisher 2.0 Beta 0015",IDC_STATIC,
+                    40,10,185,8,SS_NOPREFIX
+    LTEXT           "Copyright (C) 2002",IDC_STATIC,40,30,190,8
+    DEFPUSHBUTTON   "OK",IDOK,245,5,40,14,WS_GROUP
+    LTEXT           "WheresJames Software",IDC_STATIC,40,20,185,8,
+                    SS_NOPREFIX
+    EDITTEXT        IDC_REGSTRING,10,50,275,14,ES_CENTER | ES_AUTOHSCROLL | 
+                    ES_READONLY | WS_DISABLED | NOT WS_BORDER
+END
+
+IDD_PG_VIDEO DIALOG DISCARDABLE  0, 0, 256, 91
+STYLE WS_CHILD
+FONT 8, "MS Sans Serif"
+BEGIN
+    COMBOBOX        IDC_DRIVERS,5,30,240,70,CBS_DROPDOWNLIST | CBS_SORT | 
+                    WS_VSCROLL | WS_TABSTOP
+    LTEXT           "Video Driver",IDC_STATIC,5,20,85,8
+    CONTROL         "Correct Aspect Ratio",IDC_ASPECT,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,10,55,110,10
+END
+
+IDD_GENERAL DIALOG DISCARDABLE  0, 0, 246, 181
+STYLE WS_CHILD
+FONT 8, "MS Sans Serif"
+BEGIN
+    CONTROL         "Start with Windows",IDC_STARTUP,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,50,15,115,10
+    CONTROL         "Minimize to system tray",IDC_TRAYICON,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,50,39,120,10
+    CONTROL         "Ask",IDC_ACTION,"Button",BS_AUTORADIOBUTTON | WS_GROUP,
+                    60,124,85,10
+    CONTROL         "Minimize to tray",IDC_ACTION2,"Button",
+                    BS_AUTORADIOBUTTON,60,139,85,10
+    CONTROL         "Exit Application",IDC_ACTION3,"Button",
+                    BS_AUTORADIOBUTTON,60,155,85,10
+    GROUPBOX        "When I click the close box",IDC_STATIC,50,110,110,65
+    ICON            IDI_WINDOWS,IDC_STATIC,20,10,20,20
+    ICON            IDI_MINIMIZE,IDC_STATIC,20,25,20,20
+    CONTROL         "",IDC_CLOSEICON,"Static",SS_BLACKRECT | 
+                    SS_REALSIZEIMAGE,20,110,20,20
+    CONTROL         "Restore toolbar positions on startup",IDC_TOOLBAR,
+                    "Button",BS_AUTOCHECKBOX | WS_TABSTOP,50,60,150,10
+    ICON            IDI_TOOLBAR,IDC_STATIC,20,55,21,20
+    CONTROL         "Check for updates automatically",IDC_AUTOUPDATE,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,50,86,150,10
+    ICON            IDR_MAINFRAME,IDC_STATIC,20,80,21,20
+END
+
+IDD_SETTINGS DIALOGEX 0, 0, 382, 226
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Settings"
+FONT 8, "MS Sans Serif", 0, 0, 0x1
+BEGIN
+    CONTROL         "Tree1",IDC_TREE,"SysTreeView32",TVS_HASBUTTONS | 
+                    TVS_HASLINES | TVS_LINESATROOT | TVS_DISABLEDRAGDROP | 
+                    TVS_SHOWSELALWAYS | WS_BORDER | WS_TABSTOP,5,5,120,180,
+                    WS_EX_CLIENTEDGE
+    PUSHBUTTON      "Help",IDC_PLEASEHELP,15,200,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,260,200,50,14
+    DEFPUSHBUTTON   "OK",IDOK,205,200,50,14
+    CONTROL         "",IDC_BLANK,"Static",SS_BLACKRECT,130,5,245,180
+    GROUPBOX        "",IDC_STATIC,5,190,370,30
+    PUSHBUTTON      "Apply",IDC_APPLY,315,200,50,14
+END
+
+IDD_ONCLOSE DIALOG DISCARDABLE  0, 0, 186, 90
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Close Application"
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,125,15,50,14
+    GROUPBOX        "What do you want to do?",IDC_STATIC,5,10,110,55
+    CONTROL         "Minimize to tray",IDC_ACTION,"Button",
+                    BS_AUTORADIOBUTTON | WS_GROUP,20,30,85,10
+    CONTROL         "Exit Application",IDC_ACTION2,"Button",
+                    BS_AUTORADIOBUTTON,20,45,85,10
+    CONTROL         "Don't ask again",IDC_DONTASK,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,10,75,90,10
+    PUSHBUTTON      "Cancel",IDCANCEL,125,30,50,14
+END
+
+IDD_SPLASH DIALOGEX 0, 0, 206, 171
+STYLE DS_MODALFRAME | WS_POPUP | WS_CLIPSIBLINGS | WS_CLIPCHILDREN
+EXSTYLE WS_EX_TOOLWINDOW
+FONT 8, "MS Sans Serif", 0, 0, 0x1
+BEGIN
+    CONTROL         "",IDC_IMG,"Static",SS_BLACKRECT,65,55,55,45
+END
+
+IDD_SERVER DIALOG DISCARDABLE  0, 0, 246, 181
+STYLE WS_CHILD
+FONT 8, "MS Sans Serif"
+BEGIN
+    EDITTEXT        IDC_ADDRESS,85,5,140,20,ES_MULTILINE | ES_AUTOHSCROLL | 
+                    ES_READONLY | ES_WANTRETURN | NOT WS_BORDER
+    COMBOBOX        IDC_PORT,30,45,85,100,CBS_DROPDOWN | CBS_SORT | 
+                    WS_VSCROLL | WS_TABSTOP
+    EDITTEXT        IDC_MAXUSERS,131,46,84,14,ES_AUTOHSCROLL
+    GROUPBOX        "",IDC_STATIC,10,75,225,45
+    CONTROL         "Remote Administration",IDC_REMOTE,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,15,75,100,10
+    EDITTEXT        IDC_REMOTE_PASSWORD,30,100,85,14,ES_PASSWORD | 
+                    ES_AUTOHSCROLL
+    EDITTEXT        IDC_REMOTE_PAGE,130,100,85,14,ES_AUTOHSCROLL
+    GROUPBOX        "",IDC_STATIC,10,130,225,45
+    CONTROL         "Require Guest Password",IDC_HTTP,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,20,150,105,10
+    EDITTEXT        IDC_HTTP_PASSWORD,135,155,85,14,ES_PASSWORD | 
+                    ES_AUTOHSCROLL
+    LTEXT           "TCP Port",IDC_STATIC,30,35,50,8
+    LTEXT           "Maximum Users",IDC_STATIC,132,35,71,8
+    RTEXT           "Server Address",IDC_STATIC,15,10,60,8
+    GROUPBOX        "",IDC_STATIC,10,25,225,40
+    LTEXT           "Password",IDC_REMOTE_PASSWORD_TXT,30,90,70,8
+    LTEXT           "Page Name",IDC_PAGE_NAME_TXT,130,90,70,8
+    LTEXT           "Password",IDC_HTTP_PASSWORD_TXT,135,145,70,8
+    CONTROL         "Enable Guest Access",IDC_ENABLEHTTP,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,15,130,95,10
+END
+
+IDD_SERVERMAP DIALOG DISCARDABLE  0, 0, 246, 181
+STYLE WS_CHILD
+FONT 8, "MS Sans Serif"
+BEGIN
+    CONTROL         "List1",IDC_IMGLIST,"SysListView32",LVS_REPORT | 
+                    LVS_SINGLESEL | LVS_SHOWSELALWAYS | WS_BORDER | 
+                    WS_TABSTOP,10,25,225,60
+    PUSHBUTTON      "Remove",IDC_REMOVEIMG,200,10,35,14
+    PUSHBUTTON      "Add",IDC_ADDIMG,160,10,35,14
+    LTEXT           "Live Images",IDC_STATIC,10,15,130,8
+    CONTROL         "List1",IDC_MAPLIST,"SysListView32",LVS_REPORT | 
+                    LVS_SINGLESEL | LVS_SHOWSELALWAYS | WS_BORDER | 
+                    WS_TABSTOP,10,110,225,60
+    PUSHBUTTON      "Remove",IDC_REMOVEMAP,200,95,35,14
+    PUSHBUTTON      "Add",IDC_ADDMAP,160,95,35,14
+    LTEXT           "Folder Mapping",IDC_STATIC,10,100,130,8
+END
+
+IDD_SERVERLOG DIALOG DISCARDABLE  0, 0, 246, 181
+STYLE WS_CHILD
+FONT 8, "MS Sans Serif"
+BEGIN
+    EDITTEXT        IDC_LOGFILE,5,20,235,14,ES_AUTOHSCROLL | ES_READONLY
+    LTEXT           "Server Log",IDC_STATIC,5,10,75,8
+    CONTROL         "List1",IDC_LIST,"SysListView32",LVS_REPORT | 
+                    LVS_SINGLESEL | WS_BORDER | WS_TABSTOP,5,35,235,140
+END
+
+IDD_MAPIMAGE DIALOG DISCARDABLE  0, 0, 222, 102
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Map Image"
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,165,75,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,110,75,50,14
+    EDITTEXT        IDC_MAPTO,5,45,210,14,ES_AUTOHSCROLL
+    LTEXT           "Map To",IDC_STATIC,5,35,80,8
+    COMBOBOX        IDC_IMAGES,5,15,210,85,CBS_DROPDOWNLIST | CBS_SORT | 
+                    WS_VSCROLL | WS_TABSTOP
+    LTEXT           "Images",IDC_STATIC,5,5,70,8
+END
+
+IDD_MAPFOLDER DIALOG DISCARDABLE  0, 0, 257, 102
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Map Folder"
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,200,80,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,145,80,50,14
+    EDITTEXT        IDC_FOLDER,5,20,225,14,ES_AUTOHSCROLL
+    PUSHBUTTON      "...",IDC_CHOOSE_FOLDER,235,20,15,14
+    EDITTEXT        IDC_VIRTUALFOLDER,5,55,245,14,ES_AUTOHSCROLL
+    LTEXT           "Disk Folder",IDC_STATIC,5,10,130,8
+    LTEXT           "Virtual Folder",IDC_STATIC,5,45,130,8
+END
+
+IDD_PG_STEXT DIALOG DISCARDABLE  0, 0, 256, 91
+STYLE WS_CHILD
+FONT 8, "MS Sans Serif"
+BEGIN
+    COMBOBOX        IDC_TEXT,10,20,235,70,CBS_DROPDOWNLIST | CBS_SORT | 
+                    WS_VSCROLL | WS_TABSTOP
+    LTEXT           "Special Text",IDC_STATIC,10,10,100,8
+END
+
+IDD_PG_SCREENSHOT DIALOG DISCARDABLE  0, 0, 256, 91
+STYLE WS_CHILD
+FONT 8, "MS Sans Serif"
+BEGIN
+    COMBOBOX        IDC_WINDOW,10,20,235,70,CBS_DROPDOWN | CBS_SORT | 
+                    WS_VSCROLL | WS_TABSTOP
+    LTEXT           "Window to capture",IDC_STATIC,10,10,100,8
+    CONTROL         "Correct Aspect Ratio",IDC_ASPECT,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,10,45,110,10
+END
+
+IDD_FTP DIALOG DISCARDABLE  0, 0, 246, 181
+STYLE WS_CHILD
+FONT 8, "MS Sans Serif"
+BEGIN
+    CONTROL         "List1",IDC_LIST,"SysListView32",LVS_REPORT | 
+                    LVS_SINGLESEL | LVS_SHOWSELALWAYS | LVS_NOSORTHEADER | 
+                    WS_BORDER | WS_TABSTOP,5,10,235,45
+    EDITTEXT        IDC_NAME,10,70,110,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_ADDRESS,10,105,110,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_FOLDER,125,105,110,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_USERNAME,125,135,59,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_PASSWORD,185,135,50,14,ES_PASSWORD | ES_AUTOHSCROLL
+    CONTROL         "Passive FTP Mode",IDC_PASSIVE,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,10,138,85,10
+    DEFPUSHBUTTON   "Add",IDC_ADD,185,70,50,14
+    PUSHBUTTON      "Remove",IDC_REMOVE,130,70,50,14
+    LTEXT           "FTP Server List",IDC_STATIC,5,0,95,8
+    LTEXT           "Server Address",IDC_STATIC,10,95,80,8
+    LTEXT           "Folder",IDC_STATIC,125,95,80,8
+    LTEXT           "Username",IDC_STATIC,125,125,55,8
+    LTEXT           "Password",IDC_STATIC,190,125,45,8
+    LTEXT           "Name",IDC_STATIC,10,60,60,8
+    EDITTEXT        IDC_HTTPPATH,10,163,225,14,ES_AUTOHSCROLL
+    LTEXT           "HTTP Path",IDC_STATIC,10,155,80,8
+    CONTROL         "Rename Files",IDC_RENAME,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,10,126,85,10
+END
+
+IDD_PUBLISHING DIALOG DISCARDABLE  0, 0, 246, 181
+STYLE WS_CHILD
+FONT 8, "MS Sans Serif"
+BEGIN
+    CONTROL         "List1",IDC_LIST,"SysListView32",LVS_REPORT | 
+                    LVS_SINGLESEL | LVS_SHOWSELALWAYS | LVS_NOSORTHEADER | 
+                    WS_BORDER | WS_TABSTOP,5,30,235,145
+    LTEXT           "Publishing Tasks",IDC_STATIC,5,20,80,8
+    PUSHBUTTON      "Add",IDC_ADD,110,15,40,14
+    PUSHBUTTON      "Remove",IDC_REMOVE,155,15,40,14
+    PUSHBUTTON      "Edit",IDC_EDIT,200,15,40,14
+END
+
+IDD_PUBWHAT DIALOG DISCARDABLE  0, 0, 262, 166
+STYLE WS_CHILD
+FONT 8, "MS Sans Serif"
+BEGIN
+    COMBOBOX        IDC_IMAGE,20,145,215,104,CBS_DROPDOWNLIST | CBS_SORT | 
+                    WS_VSCROLL | WS_TABSTOP
+    CONTROL         "",IDC_IMG,"Static",SS_GRAYRECT | SS_SUNKEN,60,10,140,
+                    110
+    LTEXT           "Image",IDC_STATIC,20,135,100,8
+END
+
+IDD_PUBWHERE DIALOG DISCARDABLE  0, 0, 262, 181
+STYLE WS_CHILD
+FONT 8, "MS Sans Serif"
+BEGIN
+    CONTROL         "FTP",IDC_TYPE,"Button",BS_AUTORADIOBUTTON | WS_GROUP,5,
+                    30,90,10
+    COMBOBOX        IDC_FTP,5,41,250,74,CBS_DROPDOWNLIST | CBS_SORT | 
+                    WS_VSCROLL | WS_TABSTOP
+    CONTROL         "E-Mail",IDC_TYPE2,"Button",BS_AUTORADIOBUTTON,5,70,90,
+                    10
+    COMBOBOX        IDC_EMAIL,5,80,175,75,CBS_DROPDOWNLIST | CBS_SORT | 
+                    WS_VSCROLL | WS_TABSTOP
+    CONTROL         "Save To Disk",IDC_TYPE3,"Button",BS_AUTORADIOBUTTON,5,
+                    110,90,10
+    PUSHBUTTON      "Message Properties",IDC_EMAILMSG,185,80,70,14
+    EDITTEXT        IDC_PATH,5,121,230,14,ES_AUTOHSCROLL
+    PUSHBUTTON      "...",IDC_CHOOSE_PATH,240,121,15,14
+END
+
+IDD_PUBFRAME DIALOG DISCARDABLE  0, 0, 277, 246
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Publish Image"
+FONT 8, "MS Sans Serif"
+BEGIN
+    CONTROL         "Tab1",IDC_TAB,"SysTabControl32",0x0,5,5,265,200
+    PUSHBUTTON      "Help",IDC_HELPBTN,10,220,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,145,220,50,14
+    DEFPUSHBUTTON   "OK",IDOK,205,220,50,14
+    GROUPBOX        "",IDC_STATIC,5,210,265,30
+    CONTROL         "",IDC_BLANK,"Static",SS_BLACKRECT,79,166,101,49
+END
+
+IDD_WZ_FRAME DIALOG DISCARDABLE  0, 0, 347, 257
+STYLE DS_MODALFRAME | WS_POPUP | WS_CLIPSIBLINGS | WS_CAPTION | WS_SYSMENU
+CAPTION "E-Z Setup"
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "Next >",IDC_NEXT,216,231,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,280,231,50,14
+    GROUPBOX        "",-1,5,220,335,30
+    PUSHBUTTON      "< Back",IDC_BACK,160,231,50,14
+    CONTROL         "",IDC_TITLE,"Static",SS_WHITERECT,0,0,345,25
+    CONTROL         "",IDC_BLANK,"Static",SS_BLACKRECT,10,30,330,190
+    PUSHBUTTON      "Help",IDC_HELPBTN,15,231,50,14
+END
+
+IDD_PUBWHEN DIALOG DISCARDABLE  0, 0, 261, 166
+STYLE WS_CHILD
+FONT 8, "MS Sans Serif"
+BEGIN
+    EDITTEXT        IDC_HOUR,25,30,35,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_MIN,91,30,25,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_SEC,145,30,25,14,ES_AUTOHSCROLL
+    LTEXT           "hrs",IDC_TXT_HRS,65,34,15,8
+    LTEXT           "mins",IDC_TXT_MINS,121,34,15,8
+    LTEXT           "seconds",IDC_TXT_SECONDS,175,34,50,8
+    CONTROL         "Interval",IDC_WHEN,"Button",BS_AUTORADIOBUTTON | 
+                    WS_GROUP,15,15,95,10
+    CONTROL         "On Motion",IDC_WHEN2,"Button",BS_AUTORADIOBUTTON,15,75,
+                    95,10
+    COMBOBOX        IDC_DRIVER,25,91,210,85,CBS_DROPDOWNLIST | CBS_SORT | 
+                    WS_VSCROLL | WS_TABSTOP
+    CONTROL         "Sync with system clock",IDC_SYNCTOCLOCK,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,25,50,115,10
+    EDITTEXT        IDC_HOUR2,35,130,25,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_MIN2,91,130,25,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_SEC2,145,130,25,14,ES_AUTOHSCROLL
+    LTEXT           "hrs",IDC_TXT_HRS2,65,134,15,8
+    LTEXT           "mins",IDC_TXT_MINS2,121,134,15,8
+    LTEXT           "seconds",IDC_TXT_SECONDS2,175,134,50,8
+    GROUPBOX        "Minimum Interval",IDC_TXT_MININT,25,110,210,45
+END
+
+IDD_INFORM DIALOGEX 0, 0, 186, 73
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION
+EXSTYLE WS_EX_TOOLWINDOW
+CAPTION "WheresJames Webcam Publisher"
+FONT 8, "MS Sans Serif", 0, 0, 0x1
+BEGIN
+    CONTROL         "",IDC_TEXTBOX,"Static",SS_BLACKRECT,40,5,90,40
+    CONTROL         "",IDC_STATUS,"Static",SS_BLACKRECT | SS_SUNKEN,5,55,175,
+                    15
+END
+
+IDD_PUBHOW DIALOG DISCARDABLE  0, 0, 261, 186
+STYLE WS_CHILD
+FONT 8, "MS Sans Serif"
+BEGIN
+    EDITTEXT        IDC_FILE,5,30,230,14,ES_AUTOHSCROLL
+    PUSHBUTTON      "...",IDC_CHOOSE_FILE,240,30,16,14
+    GROUPBOX        "",IDC_STATIC,5,70,250,45
+    CONTROL         "Rotate Filename",IDC_ROTATE,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,10,70,90,10
+    EDITTEXT        IDC_STARTINDEX,35,96,55,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_STOPINDEX,101,96,55,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_CURRENTINDEX,165,96,55,14,ES_AUTOHSCROLL
+    LTEXT           "Filename",IDC_STATIC,5,20,70,8
+    LTEXT           "Start Index",IDC_STATIC,35,86,35,8
+    LTEXT           "Stop Index",IDC_STATIC,101,86,35,8
+    LTEXT           "Current Index",IDC_STATIC,165,86,43,8
+    GROUPBOX        "",IDC_STATIC,5,121,250,59
+    CONTROL         "Timestamp",IDC_TIMESTAMP,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,10,121,90,10
+    COMBOBOX        IDC_FORMAT,15,145,230,30,CBS_DROPDOWNLIST | WS_VSCROLL | 
+                    WS_TABSTOP
+    EDITTEXT        IDC_TEMPLATE,15,160,230,14,ES_AUTOHSCROLL
+    LTEXT           "Format",IDC_TXT_FORMAT,15,135,115,8
+    EDITTEXT        IDC_FINAL,5,45,250,14,ES_AUTOHSCROLL | ES_READONLY
+    ICON            IDI_BULB,IDC_STATIC,90,3,21,20
+    LTEXT           "# - Index\n$ - Timestamp",IDC_STATIC,115,6,90,20
+END
+
+IDD_TIP DIALOG DISCARDABLE  0, 0, 252, 156
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Tip of the Day"
+FONT 8, "MS Sans Serif"
+BEGIN
+    CONTROL         "",IDC_TIPFRAME,"Static",SS_BLACKFRAME | SS_SUNKEN,12,11,
+                    233,114
+    LTEXT           "Some String",IDC_TIPSTRING,55,50,175,60
+    CONTROL         "&Show Tips on StartUp",IDC_STARTUP,"Button",
+                    BS_AUTOCHECKBOX | WS_GROUP | WS_TABSTOP,15,137,85,10
+    PUSHBUTTON      "&Next Tip",IDC_NEXTTIP,135,135,50,14,WS_GROUP
+    DEFPUSHBUTTON   "&Close",IDOK,194,135,50,14,WS_GROUP
+END
+
+IDD_UPDATECHECK DIALOG DISCARDABLE  0, 0, 197, 46
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Product Update"
+FONT 8, "MS Sans Serif"
+BEGIN
+    LTEXT           "Checking for product updates...",IDC_STATUS,5,17,115,8
+    PUSHBUTTON      "Cancel",IDCANCEL,135,15,50,14
+END
+
+IDD_IMGFXEDITOR DIALOG DISCARDABLE  0, 0, 342, 201
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Effects Editor"
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "Done",IDOK,285,175,50,14
+    CONTROL         "List1",IDC_LIST,"SysListView32",LVS_REPORT | 
+                    LVS_SHOWSELALWAYS | LVS_NOCOLUMNHEADER | 
+                    LVS_NOSORTHEADER | WS_BORDER | WS_TABSTOP,160,35,175,130
+    PUSHBUTTON      ">>",IDC_ADD,125,50,20,14
+    PUSHBUTTON      "<<",IDC_REMOVE,125,70,20,14
+    ICON            IDI_BULB,IDC_STATIC,10,170,20,20
+    LTEXT           "Note: Adding effects will slow image processing.",
+                    IDC_STATIC,35,175,175,20
+    CONTROL         "Tree1",IDC_TREE,"SysTreeView32",TVS_HASBUTTONS | 
+                    TVS_HASLINES | TVS_SHOWSELALWAYS | WS_BORDER | 
+                    WS_TABSTOP,5,35,105,130
+    PUSHBUTTON      "Up",IDC_UP,120,95,30,14
+    PUSHBUTTON      "Down",IDC_DOWN,120,110,30,14
+    PUSHBUTTON      "Edit",IDC_EDITITEM,120,135,30,14
+    PUSHBUTTON      "Remove All",IDC_REMOVEALL,215,175,60,14
+    LTEXT           "Applied Effects",IDC_STATIC,160,25,120,8
+    LTEXT           "Available Effects",IDC_STATIC,5,25,100,8
+    EDITTEXT        IDC_TITLE,10,5,325,14,ES_AUTOHSCROLL | ES_READONLY | NOT 
+                    WS_BORDER
+END
+
+IDD_EDITPARAMS DIALOG DISCARDABLE  0, 0, 282, 137
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Edit Parameters"
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "Done",IDOK,225,115,50,14
+    CONTROL         "List1",IDC_LIST,"SysListView32",LVS_REPORT | 
+                    LVS_SINGLESEL | LVS_SHOWSELALWAYS | LVS_NOCOLUMNHEADER | 
+                    LVS_NOSORTHEADER | WS_BORDER | WS_TABSTOP,5,5,270,55
+    CONTROL         "Slider1",IDC_SLIDER,"msctls_trackbar32",TBS_BOTH | 
+                    TBS_NOTICKS | WS_TABSTOP,10,90,265,15
+    LTEXT           "Desc",IDC_DESC,15,80,140,8
+    EDITTEXT        IDC_VALUE,205,70,65,14,ES_AUTOHSCROLL
+    CONTROL         "Continuous Update (may be slow)",IDC_UPDATE,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,15,120,190,10
+    CONTROL         "bool",IDC_BOOL,"Button",BS_AUTOCHECKBOX | NOT 
+                    WS_VISIBLE | WS_TABSTOP,35,95,180,10
+END
+
+IDD_EMAILSETTINGS DIALOG DISCARDABLE  0, 0, 246, 181
+STYLE WS_CHILD
+FONT 8, "MS Sans Serif"
+BEGIN
+    CONTROL         "List1",IDC_LIST,"SysListView32",LVS_REPORT | 
+                    LVS_SINGLESEL | LVS_SHOWSELALWAYS | LVS_NOSORTHEADER | 
+                    WS_BORDER | WS_TABSTOP,5,10,235,45
+    EDITTEXT        IDC_NAME,5,70,175,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_SERVER,5,95,175,14,ES_AUTOHSCROLL
+    GROUPBOX        "",IDC_STATIC,5,115,235,65
+    CONTROL         "Server Requires Login",IDC_LOGIN,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,15,115,100,10
+    EDITTEXT        IDC_USERNAME,50,130,60,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_PASSWORD,170,130,60,14,ES_PASSWORD | ES_AUTOHSCROLL
+    CONTROL         "Auto detect authentication type",IDC_AUTHDETECT,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,15,150,160,10
+    COMBOBOX        IDC_AUTHTYPE,15,161,215,70,CBS_DROPDOWNLIST | WS_VSCROLL | 
+                    WS_TABSTOP
+    PUSHBUTTON      "Add",IDC_ADD,190,70,50,14
+    PUSHBUTTON      "Remove",IDC_REMOVE,190,86,50,14
+    LTEXT           "SMTP Server  ( such as mail.wheresjames.com )",
+                    IDC_STATIC,5,86,160,8
+    RTEXT           "Username",IDC_STATIC,10,133,35,8
+    RTEXT           "Password",IDC_STATIC,125,133,40,8
+    LTEXT           "E-Mail Server List",IDC_STATIC,5,0,95,8
+    LTEXT           "Name",IDC_STATIC,5,60,160,8
+END
+
+IDD_COMPOSEMAIL DIALOG DISCARDABLE  0, 0, 312, 201
+STYLE WS_POPUP | WS_CAPTION | WS_SYSMENU | WS_THICKFRAME
+CAPTION "E-Mail Message"
+FONT 8, "MS Sans Serif"
+BEGIN
+    COMBOBOX        IDC_TO,40,10,205,95,CBS_DROPDOWN | CBS_SORT | WS_VSCROLL | 
+                    WS_TABSTOP
+    COMBOBOX        IDC_FROM,40,30,205,100,CBS_DROPDOWN | CBS_SORT | 
+                    WS_VSCROLL | WS_TABSTOP
+    EDITTEXT        IDC_SUBJECT,40,50,205,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_MSG,5,70,300,125,ES_MULTILINE | ES_AUTOHSCROLL | 
+                    ES_WANTRETURN | WS_VSCROLL | WS_HSCROLL
+    DEFPUSHBUTTON   "OK",IDOK,255,10,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,255,25,50,14
+    RTEXT           "To",IDC_STATIC,0,12,35,8
+    RTEXT           "From",IDC_STATIC,0,33,35,8
+    RTEXT           "Subject",IDC_STATIC,0,50,35,8
+END
+
+IDD_REGISTER DIALOG DISCARDABLE  0, 0, 346, 234
+STYLE DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Register"
+FONT 8, "MS Shell Dlg"
+BEGIN
+    CONTROL         "",IDC_BLANK,"Static",SS_BLACKRECT,24,42,84,66
+    CONTROL         "",IDC_TAB,"SysTabControl32",0x0,6,6,336,204
+    PUSHBUTTON      "Register Later",IDOK,270,216,68,14
+END
+
+IDD_PURCHASE DIALOGEX 0, 0, 327, 186
+STYLE WS_CHILD | WS_SYSMENU
+FONT 8, "MS Sans Serif", 0, 0, 0x1
+BEGIN
+    PUSHBUTTON      "Register",IDC_REGISTER,264,136,55,14
+    EDITTEXT        IDC_CODE,10,136,248,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_TEXT,7,5,315,110,ES_MULTILINE | ES_READONLY | 
+                    ES_WANTRETURN | WS_VSCROLL
+    LTEXT           "Registration Code",IDC_STATIC,10,125,120,8
+    CONTROL         "Progress1",IDC_PROGRESS,"msctls_progress32",WS_BORDER,
+                    10,170,310,9
+    LTEXT           "0 Days Remaining",IDC_REMAININGTEXT,10,160,310,8
+END
+
+IDD_REGBROWSER DIALOGEX 0, 0, 332, 188
+STYLE DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    CONTROL         "",IDC_WEB,"{8856F961-340A-11D0-A96B-00C04FD705A2}",
+                    WS_TABSTOP,6,6,318,174
+END
+
+IDD_MOTION DIALOG DISCARDABLE  0, 0, 246, 181
+STYLE WS_CHILD
+FONT 8, "MS Sans Serif"
+BEGIN
+    CONTROL         "Slider1",IDC_SLIDE_MOTION,"msctls_trackbar32",TBS_BOTH | 
+                    TBS_NOTICKS | WS_TABSTOP,0,105,120,15
+    LTEXT           "Motion Sensitivity",IDC_TXT_MOTION,5,95,105,8
+    CONTROL         "Progress1",IDC_LEVEL_MOTION,"msctls_progress32",
+                    WS_BORDER,5,124,110,10
+    CONTROL         "Slider1",IDC_SLIDE_BRIGHT,"msctls_trackbar32",TBS_BOTH | 
+                    TBS_NOTICKS | WS_TABSTOP,120,108,125,15
+    LTEXT           "Brightness Sensitivity",IDC_TXT_BRIGHT,125,95,105,8
+    CONTROL         "Progress1",IDC_LEVEL_BRIGHT,"msctls_progress32",
+                    WS_BORDER,125,124,115,10
+    CONTROL         "",IDC_IMAGE,"Static",SS_BLACKRECT | SS_SUNKEN | 
+                    WS_BORDER,135,5,105,85
+    COMBOBOX        IDC_DRIVER,5,15,120,80,CBS_DROPDOWNLIST | CBS_SORT | 
+                    WS_VSCROLL | WS_TABSTOP
+    LTEXT           "Capture Device",IDC_STATIC,5,5,85,8
+    COMBOBOX        IDC_SCANTYPE,5,65,120,85,CBS_DROPDOWNLIST | CBS_SORT | 
+                    WS_VSCROLL | WS_TABSTOP
+    LTEXT           "Scan Type",IDC_TXT_SCANTYPE,5,55,60,8
+    CONTROL         "Enable Motion Detection",IDC_ENABLE,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,5,35,105,10
+    EDITTEXT        IDC_SOUNDFILE,5,165,235,14,ES_AUTOHSCROLL
+    PUSHBUTTON      "",IDC_PLAY,195,150,20,14
+    PUSHBUTTON      "",IDC_CHOOSE_SOUND,220,150,20,14
+    CONTROL         "Play Sound (leave blank for default sound)",
+                    IDC_ENABLESOUND,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,5,
+                    152,175,10
+END
+
+IDD_PG_BCKIMG DIALOG DISCARDABLE  0, 0, 256, 91
+STYLE WS_CHILD
+FONT 8, "MS Sans Serif"
+BEGIN
+    CONTROL         "Blank",IDC_TYPE1,"Button",BS_AUTORADIOBUTTON | WS_GROUP,
+                    5,7,65,10
+    CONTROL         "Live Video",IDC_TYPE2,"Button",BS_AUTORADIOBUTTON,5,30,
+                    70,10
+    CONTROL         "Static Image",IDC_TYPE3,"Button",BS_AUTORADIOBUTTON,5,
+                    65,85,10
+    COMBOBOX        IDC_VIDEO,5,42,245,100,CBS_DROPDOWNLIST | CBS_SORT | 
+                    WS_VSCROLL | WS_TABSTOP
+    COMBOBOX        IDC_IMAGE,5,75,220,90,CBS_DROPDOWN | CBS_SORT | 
+                    WS_VSCROLL | WS_TABSTOP
+    PUSHBUTTON      "...",IDC_CHOOSE_IMAGE,230,75,20,14
+    CONTROL         "",IDC_COLOR,"Static",SS_BLACKRECT | SS_SUNKEN | 
+                    WS_BORDER,85,5,25,15
+    PUSHBUTTON      "Background Color",IDC_CHOOSE_COLOR,111,5,75,14
+    CONTROL         "Motion Overlay",IDC_MOTIONOVERLAY,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,85,30,75,10
+END
+
+IDD_PG_IMAGEPROP DIALOG DISCARDABLE  0, 0, 256, 91
+STYLE WS_CHILD
+FONT 8, "MS Sans Serif"
+BEGIN
+    CONTROL         "Custom Size",IDC_CUSTOMSIZE,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,20,45,75,10
+    EDITTEXT        IDC_WIDTH,32,58,50,14,ES_AUTOHSCROLL
+    LTEXT           "X",IDC_STATIC,87,62,10,8
+    EDITTEXT        IDC_HEIGHT,97,58,50,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_NAME,10,20,235,14,ES_AUTOHSCROLL
+    LTEXT           "Image Name",IDC_STATIC,10,10,90,8
+END
+
+IDD_PUBTHUMBNAIL DIALOG DISCARDABLE  0, 0, 261, 186
+STYLE WS_CHILD
+FONT 8, "MS Sans Serif"
+BEGIN
+    GROUPBOX        "",IDC_STATIC,5,10,250,165
+    CONTROL         "Thumbnail",IDC_THUMBNAIL,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,10,10,90,10
+    EDITTEXT        IDC_PWIDTH,90,95,35,14,ES_AUTOHSCROLL
+    CONTROL         "Percent %",IDC_TNSIZING,"Button",BS_AUTORADIOBUTTON | 
+                    BS_LEFTTEXT | WS_GROUP,30,97,50,10
+    EDITTEXT        IDC_WIDTH,90,110,35,14,ES_AUTOHSCROLL
+    CONTROL         "Pixels",IDC_TNSIZING2,"Button",BS_AUTORADIOBUTTON | 
+                    BS_LEFTTEXT,30,115,50,10
+    CTEXT           "X",IDC_SIZETEXT,130,113,10,8
+    EDITTEXT        IDC_HEIGHT,145,110,35,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_PHEIGHT,145,95,35,14,ES_AUTOHSCROLL
+    CTEXT           "X",IDC_PSIZETEXT,130,98,10,8
+    CONTROL         "Maintain aspect ratio",IDC_RATIO,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,15,80,85,10
+    EDITTEXT        IDC_TFNAME,15,40,225,14,ES_AUTOHSCROLL
+    LTEXT           "Thumbnail File Name",IDC_TFNAME_TEXT,15,30,67,8
+    CONTROL         "Rotate",IDC_ROTATE,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,15,135,85,10
+    CONTROL         "Timestamp",IDC_TIMESTAMP,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,15,150,85,10
+    EDITTEXT        IDC_FINAL,15,55,225,14,ES_AUTOHSCROLL | ES_READONLY
+END
+
+IDD_LOGFILES DIALOG DISCARDABLE  0, 0, 246, 181
+STYLE WS_CHILD
+FONT 8, "MS Sans Serif"
+BEGIN
+    CONTROL         "FTP Log",IDC_FTP,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,
+                    10,30,100,10
+    EDITTEXT        IDC_FTPLOG,15,46,175,14,ES_AUTOHSCROLL
+    PUSHBUTTON      "Open",IDC_OPENFTP,195,46,36,14
+    CONTROL         "SMTP Log",IDC_SMTP,"Button",BS_AUTOCHECKBOX | NOT 
+                    WS_VISIBLE | WS_TABSTOP,10,70,100,10
+    EDITTEXT        IDC_SMTPLOG,15,86,175,14,ES_AUTOHSCROLL | NOT WS_VISIBLE
+    PUSHBUTTON      "Open",IDC_OPENSMTP,195,86,36,14,NOT WS_VISIBLE
+END
+
+IDD_EDITPARAM DIALOG DISCARDABLE  0, 0, 82, 31
+STYLE WS_CHILD | WS_CLIPCHILDREN
+FONT 8, "MS Sans Serif"
+BEGIN
+END
+
+IDD_PROP DIALOG DISCARDABLE  0, 0, 178, 201
+STYLE WS_CHILD | WS_CLIPCHILDREN
+FONT 8, "MS Sans Serif"
+BEGIN
+    CONTROL         "",IDC_LIST,"Static",SS_BLACKRECT | SS_NOTIFY | 
+                    WS_BORDER,10,30,160,165
+    COMBOBOX        IDC_COMBO,10,15,160,100,CBS_DROPDOWNLIST | WS_VSCROLL | 
+                    WS_TABSTOP
+END
+
+IDD_PROPBAR DIALOG DISCARDABLE  0, 0, 186, 181
+STYLE WS_CHILD | WS_CLIPCHILDREN
+FONT 8, "MS Sans Serif"
+BEGIN
+END
+
+IDD_CGI DIALOG DISCARDABLE  0, 0, 246, 181
+STYLE WS_CHILD
+FONT 8, "MS Sans Serif"
+BEGIN
+    CONTROL         "List1",IDC_LIST,"SysListView32",LVS_REPORT | 
+                    LVS_SINGLESEL | LVS_SHOWSELALWAYS | LVS_NOSORTHEADER | 
+                    WS_BORDER | WS_TABSTOP,5,25,235,150
+    PUSHBUTTON      "Remove",IDC_REMOVE,200,10,40,14
+    PUSHBUTTON      "Add",IDC_ADD,155,10,40,14
+    LTEXT           "CGI Interpreters",IDC_STATIC,5,15,75,8
+END
+
+IDD_ADDCGI DIALOG DISCARDABLE  0, 0, 237, 137
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "CGI"
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,180,115,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,115,115,50,14
+    EDITTEXT        IDC_NAME,10,20,140,14,ES_AUTOHSCROLL
+    LTEXT           "Name",IDC_STATIC,10,10,90,8
+    EDITTEXT        IDC_EXT,160,20,70,14,ES_AUTOHSCROLL
+    LTEXT           "Extension",IDC_STATIC,160,10,50,8
+    EDITTEXT        IDC_EXE,10,55,200,14,ES_AUTOHSCROLL
+    PUSHBUTTON      "...",IDC_CHOOSE_EXE,215,55,16,14
+    LTEXT           "Executable",IDC_STATIC,10,45,135,8
+    EDITTEXT        IDC_PARAMS,10,90,220,14,ES_AUTOHSCROLL
+    LTEXT           "Params",IDC_STATIC,10,80,70,8
+END
+
+IDD_HTMLBUILD DIALOG DISCARDABLE  0, 0, 452, 290
+STYLE WS_MINIMIZEBOX | WS_MAXIMIZEBOX | WS_CLIPCHILDREN | WS_CAPTION | 
+    WS_SYSMENU | WS_THICKFRAME
+CAPTION "HTML Builder"
+FONT 8, "MS Sans Serif"
+BEGIN
+    CONTROL         "",IDC_WEB,"{8856F961-340A-11D0-A96B-00C04FD705A2}",
+                    WS_TABSTOP,160,25,285,260
+    CONTROL         "Tree1",IDC_TREE,"SysTreeView32",TVS_HASBUTTONS | 
+                    TVS_HASLINES | TVS_LINESATROOT | TVS_SHOWSELALWAYS | 
+                    WS_BORDER | WS_TABSTOP,5,5,145,155
+    CONTROL         "",IDC_PROPERTIES,"Static",SS_BLACKRECT | SS_NOTIFY | 
+                    WS_BORDER,5,160,145,85
+    DEFPUSHBUTTON   "Publish >",IDOK,105,260,45,14
+    PUSHBUTTON      "Defaults",IDC_DEFAULTS,55,260,45,14
+    PUSHBUTTON      "Cancel",IDCANCEL,5,260,45,14
+    CONTROL         "",IDC_WARNING,"Static",SS_BLACKRECT,160,5,285,15
+END
+
+IDD_HTMLPUBLISH DIALOG DISCARDABLE  0, 0, 312, 206
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Publish HTML"
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "Publish >",IDOK,241,20,50,14
+    CONTROL         "Publish to local server",IDC_PUBLISH1,"Button",
+                    BS_AUTORADIOBUTTON | WS_GROUP,20,55,140,10
+    COMBOBOX        IDC_FOLDER,30,65,270,105,CBS_DROPDOWNLIST | CBS_SORT | 
+                    WS_VSCROLL | WS_TABSTOP
+    CONTROL         "Publish to FTP server",IDC_PUBLISH2,"Button",
+                    BS_AUTORADIOBUTTON,20,95,140,10
+    COMBOBOX        IDC_FTPSERVER,30,105,270,105,CBS_DROPDOWNLIST | CBS_SORT | 
+                    WS_VSCROLL | WS_TABSTOP
+    CONTROL         "Publish to Folder",IDC_PUBLISH3,"Button",
+                    BS_AUTORADIOBUTTON,20,135,140,10
+    EDITTEXT        IDC_DIR,30,145,250,14,ES_AUTOHSCROLL
+    PUSHBUTTON      "",IDC_CHOOSE_DIR,280,145,18,14
+    PUSHBUTTON      "Close",IDCANCEL,185,20,50,14
+    CONTROL         "Progress1",IDC_PROGRESS,"msctls_progress32",WS_BORDER,
+                    10,190,290,9
+    LTEXT           "",IDC_STATUS,10,175,290,13,SS_CENTERIMAGE | SS_SUNKEN
+    LTEXT           "Filename",IDC_STATIC,15,15,70,8
+    GROUPBOX        "",IDC_STATIC,170,5,130,40
+    COMBOBOX        IDC_FILENAME,15,25,135,100,CBS_DROPDOWN | CBS_SORT | 
+                    WS_VSCROLL | WS_TABSTOP
+END
+
+IDD_UPLOAD DIALOG DISCARDABLE  0, 0, 282, 76
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Uploading"
+FONT 8, "MS Sans Serif"
+BEGIN
+    PUSHBUTTON      "Cancel",IDCANCEL,225,55,50,14
+    CONTROL         "Progress1",IDC_PROGRESS,"msctls_progress32",WS_BORDER,5,
+                    25,270,9
+    LTEXT           "Initializing...",IDC_STATUS,5,15,270,8
+    LTEXT           "Static",IDC_STATUSBOX,5,55,210,13,SS_CENTERIMAGE | 
+                    SS_SUNKEN
+END
+
+IDD_JPGSETTINGS DIALOG DISCARDABLE  0, 0, 246, 181
+STYLE WS_CHILD
+FONT 8, "MS Sans Serif"
+BEGIN
+    LTEXT           "Lowering the quality will produce smaller file sizes",
+                    IDC_STATIC,41,45,175,25
+    CONTROL         "Slider1",IDC_SLIDEQUALITY,"msctls_trackbar32",TBS_BOTH | 
+                    TBS_NOTICKS | WS_TABSTOP,5,95,180,15
+    LTEXT           "Jpeg Quality",IDC_STATIC,10,85,80,8
+    EDITTEXT        IDC_QUALITY,191,95,45,14,ES_AUTOHSCROLL
+    ICON            IDI_LIGHTBULB,IDC_STATIC,15,40,20,20
+END
+
+IDD_PG_CHROMAKEY DIALOGEX 0, 0, 256, 91
+STYLE WS_CHILD
+FONT 8, "MS Sans Serif", 0, 0, 0x1
+BEGIN
+    CONTROL         "Enable Keying",IDC_ENABLE,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,10,5,95,10
+    PUSHBUTTON      "Key Color",IDC_CHOOSE_COLOR,190,10,47,13
+    CONTROL         "",IDC_COLORBOX,"Static",SS_BLACKRECT,155,10,35,15,
+                    WS_EX_CLIENTEDGE
+    CONTROL         "Slider1",IDC_SLIDEPOSITIVE,"msctls_trackbar32",TBS_BOTH | 
+                    TBS_NOTICKS | WS_TABSTOP,10,65,115,15
+    LTEXT           "Positive",IDC_TXT_POSITIVE,15,55,50,8
+    EDITTEXT        IDC_POSITIVE,75,50,45,14,ES_AUTOHSCROLL
+    CONTROL         "Slider1",IDC_SLIDENEGATIVE,"msctls_trackbar32",TBS_BOTH | 
+                    TBS_NOTICKS | WS_TABSTOP,135,65,110,15
+    LTEXT           "Negative",IDC_TXT_NEGATIVE,140,55,50,8
+    EDITTEXT        IDC_NEGATIVE,195,50,45,14,ES_AUTOHSCROLL
+    GROUPBOX        "Key Error",IDC_BOX,5,35,245,50
+    CONTROL         "No Smoothing",IDC_NOSMOOTHING,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,20,19,95,10
+END
+
+IDD_PG_CHROMABCK DIALOG DISCARDABLE  0, 0, 256, 91
+STYLE WS_CHILD
+FONT 8, "MS Sans Serif"
+BEGIN
+    CONTROL         "Image File",IDC_BCKTYPE,"Button",BS_AUTORADIOBUTTON | 
+                    WS_GROUP,5,4,105,10
+    CONTROL         "Dynamic Image",IDC_BCKTYPE2,"Button",BS_AUTORADIOBUTTON,
+                    5,32,105,10
+    CONTROL         "Capture Device",IDC_BCKTYPE3,"Button",
+                    BS_AUTORADIOBUTTON,5,62,105,8
+    PUSHBUTTON      "",IDC_CHOOSE_IMAGE,230,14,20,14
+    COMBOBOX        IDC_PANEL,15,43,235,82,CBS_DROPDOWNLIST | CBS_SORT | 
+                    WS_VSCROLL | WS_TABSTOP
+    COMBOBOX        IDC_VIDEO,15,73,235,72,CBS_DROPDOWNLIST | CBS_SORT | 
+                    WS_VSCROLL | WS_TABSTOP
+    COMBOBOX        IDC_IMAGE,15,15,215,95,CBS_DROPDOWN | CBS_AUTOHSCROLL | 
+                    CBS_SORT | WS_VSCROLL | WS_TABSTOP
+END
+
+IDD_WZ_CAM DIALOG DISCARDABLE  0, 0, 276, 186
+STYLE WS_CHILD
+FONT 8, "MS Sans Serif"
+BEGIN
+    COMBOBOX        IDC_COMBO,20,125,245,92,CBS_DROPDOWNLIST | CBS_SORT | 
+                    WS_VSCROLL | WS_TABSTOP
+    EDITTEXT        IDC_NAME,5,15,265,14,ES_AUTOHSCROLL
+    LTEXT           "Type a name to identify this image",IDC_STATIC,5,5,155,
+                    8
+    CONTROL         "Blank",IDC_BCKTYPE,"Button",BS_AUTORADIOBUTTON | 
+                    WS_GROUP,10,95,70,10
+    CONTROL         "Video",IDC_BCKTYPE2,"Button",BS_AUTORADIOBUTTON,10,115,
+                    70,10
+    CONTROL         "Image",IDC_BCKTYPE3,"Button",BS_AUTORADIOBUTTON,10,150,
+                    70,10
+    PUSHBUTTON      "...",IDC_CHOOSE_IMAGE,245,160,20,14
+    COMBOBOX        IDC_IMAGEFILE,20,160,225,75,CBS_DROPDOWN | CBS_SORT | 
+                    WS_VSCROLL | WS_TABSTOP
+    GROUPBOX        "Image Type",IDC_STATIC,5,80,265,100
+    CONTROL         "Custom Size",IDC_CUSTOMSIZE,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,5,40,75,10
+    EDITTEXT        IDC_WIDTH,20,55,50,14,ES_AUTOHSCROLL
+    LTEXT           "X",IDC_STATIC,75,59,10,8
+    EDITTEXT        IDC_HEIGHT,85,55,50,14,ES_AUTOHSCROLL
+END
+
+IDD_WZ_WELCOME DIALOGEX 0, 0, 261, 181
+STYLE WS_CHILD | WS_VISIBLE
+EXSTYLE WS_EX_APPWINDOW
+FONT 8, "MS Sans Serif", 0, 0, 0x1
+BEGIN
+    LTEXT           "This wizard will help you get started publishing your images.\r\n\r\nClick 'Next' to continue.",
+                    IDC_STATIC,31,60,219,40
+    ICON            IDI_BULB,IDC_STATIC,5,55,20,20,SS_REALSIZEIMAGE
+END
+
+IDD_WZ_PUBTYPE DIALOG DISCARDABLE  0, 0, 266, 131
+STYLE WS_CHILD
+FONT 8, "MS Sans Serif"
+BEGIN
+    CONTROL         "I do not want to publish at this time.",IDC_PUBTYPE,
+                    "Button",BS_AUTORADIOBUTTON | WS_GROUP,15,10,240,10
+    CONTROL         "I want to images to be served to the web from this computer.",
+                    IDC_PUBTYPE2,"Button",BS_AUTORADIOBUTTON,15,35,240,10
+    CONTROL         "I want to upload images to a remote FTP server.",
+                    IDC_PUBTYPE3,"Button",BS_AUTORADIOBUTTON,15,60,245,10
+    CONTROL         "I want to send images to an E-mail address.",
+                    IDC_PUBTYPE4,"Button",BS_AUTORADIOBUTTON,15,86,245,10
+    CONTROL         "I want to save the images to a local file.",
+                    IDC_PUBTYPE5,"Button",BS_AUTORADIOBUTTON,15,110,245,10
+END
+
+IDD_WZ_LOCALSERVER DIALOG DISCARDABLE  0, 0, 271, 186
+STYLE WS_CHILD
+FONT 8, "MS Sans Serif"
+BEGIN
+    EDITTEXT        IDC_ROOTDIR,10,55,230,14,ES_AUTOHSCROLL
+    PUSHBUTTON      "",IDC_CHOOSE_ROOTDIR,240,55,20,14
+    EDITTEXT        IDC_FILENAME,10,105,250,14,ES_AUTOHSCROLL
+    COMBOBOX        IDC_PORT,35,155,85,100,CBS_DROPDOWN | CBS_SORT | 
+                    WS_VSCROLL | WS_TABSTOP
+    EDITTEXT        IDC_HTTPPASSWORD,150,155,85,14,ES_PASSWORD | 
+                    ES_AUTOHSCROLL
+    EDITTEXT        IDC_ADDRESS,85,10,140,20,ES_MULTILINE | ES_AUTOHSCROLL | 
+                    ES_READONLY | ES_WANTRETURN | NOT WS_BORDER
+    RTEXT           "Server Address",IDC_STATIC,15,15,60,8
+    LTEXT           "Root Directory",IDC_STATIC,10,45,85,8
+    LTEXT           "Image Filename",IDC_STATIC,10,95,85,8
+    GROUPBOX        "Advanced",IDC_STATIC,10,130,250,50
+    LTEXT           "TCP Port",IDC_STATIC,35,145,55,8
+    ICON            IDI_BULB,IDC_STATIC,121,76,20,20
+    LTEXT           "Extension determines image type. (jpg;png;bmp;tga;tif;pcx)",
+                    IDC_STATIC,145,82,116,20
+    LTEXT           "Guest Password",IDC_STATIC,150,145,65,8
+END
+
+IDD_PAGEFRAME DIALOG DISCARDABLE  0, 0, 282, 257
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Setup"
+FONT 8, "MS Sans Serif"
+BEGIN
+    LTEXT           "",IDC_BLANK,55,170,105,45,NOT WS_GROUP
+    CONTROL         "Tab1",IDC_TAB,"SysTabControl32",0x0,5,5,270,205
+    PUSHBUTTON      "Help",IDC_PLEASEHELP,10,225,50,14
+    DEFPUSHBUTTON   "Done",IDOK,215,225,50,14
+    GROUPBOX        "",IDC_STATIC,5,215,270,30
+END
+
+IDD_SIMPLE DIALOGEX 0, 0, 436, 270
+STYLE WS_MINIMIZEBOX | WS_MAXIMIZEBOX | WS_POPUP | WS_CLIPCHILDREN | 
+    WS_CAPTION | WS_SYSMENU | WS_THICKFRAME
+CAPTION "Capture Mode"
+FONT 8, "MS Sans Serif", 0, 0, 0x1
+BEGIN
+    CONTROL         "",IDC_IMAGE,"Static",SS_BLACKRECT | SS_NOTIFY | 
+                    SS_SUNKEN,140,25,255,180
+    CONTROL         "List1",IDC_OVERLAYS,"SysListView32",LVS_SHOWSELALWAYS | 
+                    WS_TABSTOP,5,25,60,180,WS_EX_STATICEDGE
+    CONTROL         "List1",IDC_BACKGROUNDS,"SysListView32",
+                    LVS_SHOWSELALWAYS | WS_TABSTOP,70,25,60,180,
+                    WS_EX_STATICEDGE
+    CONTROL         "Frame",IDC_ENABLE_OVERLAY,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,5,15,60,10
+    CONTROL         "Background",IDC_ENABLE_BACKGROUND,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,70,15,60,10
+    CONTROL         "",IDC_TOOLBAR,"Static",SS_BLACKRECT | SS_NOTIFY | 
+                    SS_SUNKEN,140,210,255,30
+    CONTROL         "Mask",IDC_MASKIMG,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,
+                    5,210,55,10
+    CONTROL         "Slider1",IDC_SLIDEERR,"msctls_trackbar32",TBS_BOTH | 
+                    TBS_NOTICKS | WS_TABSTOP,70,230,50,15
+    PUSHBUTTON      "",IDC_CHOOSE_COLOR,110,210,16,14
+    CONTROL         "",IDC_COLORBOX,"Static",SS_BLACKRECT | SS_SUNKEN,70,210,
+                    35,15
+    PUSHBUTTON      "",IDC_CHOOSE_MASKCOLOR,45,225,16,14
+    CONTROL         "",IDC_MASKCOLOR,"Static",SS_BLACKRECT | SS_SUNKEN,5,225,
+                    35,15
+END
+
+IDD_PG_MASK DIALOGEX 0, 0, 256, 91
+STYLE WS_CHILD
+FONT 8, "MS Sans Serif", 0, 0, 0x1
+BEGIN
+    CONTROL         "Enable Frame",IDC_MASK,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,5,8,60,10
+    CONTROL         "List1",IDC_LIST,"SysListView32",LVS_SINGLESEL | 
+                    LVS_SHOWSELALWAYS | WS_BORDER | WS_TABSTOP,5,40,245,45
+    PUSHBUTTON      "Frame Color",IDC_CHOOSE_COLOR,175,5,75,14
+    CONTROL         "",IDC_COLORBOX,"Static",SS_BLACKRECT,150,5,25,15,
+                    WS_EX_CLIENTEDGE
+    EDITTEXT        IDC_MASKFILE,5,25,220,14,ES_AUTOHSCROLL
+    PUSHBUTTON      "",IDC_CHOOSE_MASKFILE,230,25,21,14
+    CONTROL         "Mask",IDC_MASKIMG,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,
+                    80,8,55,10
+END
+
+IDD_SIMPLESETTINGS DIALOG DISCARDABLE  0, 0, 292, 191
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Capture Mode Setup"
+FONT 8, "MS Sans Serif"
+BEGIN
+    GROUPBOX        "",IDC_STATIC,10,80,275,55
+    DEFPUSHBUTTON   "OK",IDOK,235,170,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,180,170,50,14
+    LTEXT           "Image",IDC_STATIC,15,10,90,8
+    COMBOBOX        IDC_IMAGE,15,20,265,120,CBS_DROPDOWNLIST | WS_VSCROLL | 
+                    WS_TABSTOP
+    CONTROL         "Show E-mail Button",IDC_EMAIL,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,15,45,90,10
+    CONTROL         "Show Print Button",IDC_PRINT,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,15,60,90,10
+    CONTROL         "Show FTP Button",IDC_FTP,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,15,80,95,10
+    COMBOBOX        IDC_FTPSERVER,20,110,130,95,CBS_DROPDOWNLIST | CBS_SORT | 
+                    WS_VSCROLL | WS_TABSTOP
+    LTEXT           "FTP Server",IDC_TXT_FTPSERVER,20,100,60,8
+    PUSHBUTTON      "Edit",IDC_FTPEDIT,124,95,25,14
+    EDITTEXT        IDC_FTPFILENAME,160,110,115,14,ES_AUTOHSCROLL
+    LTEXT           "Upload Filename",IDC_TXT_FTPFILENAME,160,100,70,8
+    CONTROL         "Show Setup Button",IDC_SETUP,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,160,60,115,10
+    CONTROL         "Show 'Save To Disk' Button",IDC_SAVE,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,160,45,115,10
+    EDITTEXT        IDC_XMAX,10,160,40,14,ES_AUTOHSCROLL
+    LTEXT           "Maximum Window Size",IDC_STATIC,10,150,100,8
+    EDITTEXT        IDC_YMAX,70,160,40,14,ES_AUTOHSCROLL
+    CTEXT           "X",IDC_STATIC,56,163,8,8
+END
+
+IDD_CHAT DIALOG DISCARDABLE  0, 0, 246, 181
+STYLE WS_CHILD
+FONT 8, "MS Sans Serif"
+BEGIN
+    CONTROL         "Enable Chat",IDC_ENABLECHAT,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,70,22,90,10
+    EDITTEXT        IDC_MAXLINES,80,82,100,14,ES_AUTOHSCROLL
+    LTEXT           "Maximum Lines",IDC_TXT_MAXLINES,80,73,75,8
+    CONTROL         "Show Address",IDC_SHOWADDR,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,80,57,85,10
+    CONTROL         "Show Username",IDC_SHOWUSERNAME,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,80,42,85,10
+    ICON            IDI_CHAT,IDC_STATIC,40,15,21,20
+    EDITTEXT        IDC_MAXMSGLEN,80,111,100,14,ES_AUTOHSCROLL
+    LTEXT           "Maximum message length",IDC_TXT_MAXMSGLEN,80,102,95,8
+    CONTROL         "Allow HTML in message",IDC_ALLOWHTML,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,80,137,110,10
+END
+
+IDD_PUBSOUNDS DIALOG DISCARDABLE  0, 0, 261, 186
+STYLE WS_CHILD
+FONT 8, "MS Sans Serif"
+BEGIN
+    EDITTEXT        IDC_SOUNDFILE,15,80,235,14,ES_AUTOHSCROLL
+    PUSHBUTTON      "",IDC_PLAY,205,65,20,14
+    PUSHBUTTON      "",IDC_CHOOSE_SOUND,230,65,20,14
+    CONTROL         "Play Sound (leave blank for default sound)",
+                    IDC_ENABLESOUND,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,15,
+                    67,175,10
+END
+
+IDD_PG_URL DIALOG DISCARDABLE  0, 0, 256, 91
+STYLE WS_CHILD
+FONT 8, "MS Sans Serif"
+BEGIN
+    EDITTEXT        IDC_URL,10,20,217,14,ES_AUTOHSCROLL
+    LTEXT           "Image URL ( Ex: http://www.wheresjames.com/image.jpg )",
+                    IDC_STATIC,10,10,225,8
+    CONTROL         "Correct Aspect Ratio",IDC_ASPECT,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,10,70,110,10
+    PUSHBUTTON      "",IDC_REFRESH,230,20,20,14
+    LTEXT           "Image Type",IDC_STATIC,10,40,60,8
+    COMBOBOX        IDC_TYPE,10,50,80,85,CBS_DROPDOWN | CBS_SORT | 
+                    WS_VSCROLL | WS_TABSTOP
+END
+
+IDD_WZFTP_FRAME DIALOG DISCARDABLE  0, 0, 247, 201
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION
+FONT 8, "MS Sans Serif"
+BEGIN
+    CONTROL         "",IDC_BLANK,"Static",SS_BLACKRECT,5,20,235,140
+    CONTROL         "",IDC_TITLE,"Static",SS_WHITERECT,0,0,245,20
+    DEFPUSHBUTTON   "Next >",IDC_NEXT,140,175,40,14
+    PUSHBUTTON      "Cancel",IDCANCEL,195,175,40,14
+    GROUPBOX        "",-1,5,165,235,30
+    PUSHBUTTON      "< Back",IDC_BACK,95,175,40,14
+    PUSHBUTTON      "Help",IDC_HELPBTN,10,175,40,14
+END
+
+IDD_FTPLIST DIALOG DISCARDABLE  0, 0, 246, 181
+STYLE WS_CHILD
+FONT 8, "MS Sans Serif"
+BEGIN
+    CONTROL         "List1",IDC_LIST,"SysListView32",LVS_REPORT | 
+                    LVS_SINGLESEL | LVS_SHOWSELALWAYS | WS_BORDER | 
+                    WS_TABSTOP,5,46,230,119
+    PUSHBUTTON      "Remove",IDC_REMOVE,160,30,35,14
+    PUSHBUTTON      "Add",IDC_ADD,120,30,35,14
+    LTEXT           "FTP Servers",IDC_STATIC,5,35,90,8
+    PUSHBUTTON      "Edit",IDC_EDIT,200,30,35,14
+    ICON            IDI_SERVERUPLOAD,IDC_STATIC,5,5,20,20
+END
+
+IDD_WZFTP_PG2 DIALOG DISCARDABLE  0, 0, 236, 131
+STYLE WS_CHILD
+FONT 8, "MS Sans Serif"
+BEGIN
+    EDITTEXT        IDC_USERNAME,15,40,90,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_PASSWORD,125,40,90,14,ES_PASSWORD | ES_AUTOHSCROLL
+    LTEXT           "Username",IDC_STATIC,15,30,60,8
+    LTEXT           "Password",IDC_STATIC,125,30,50,8
+    GROUPBOX        "FTP Login Information",IDC_STATIC,10,15,215,50
+    CONTROL         "Passive FTP Mode",IDC_PASSIVE,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,10,76,105,10
+    CONTROL         "Upload as temporary file, then rename.",IDC_RENAME,
+                    "Button",BS_AUTOCHECKBOX | WS_TABSTOP,10,95,160,10
+END
+
+IDD_WZFTP_PG1 DIALOG DISCARDABLE  0, 0, 236, 131
+STYLE WS_CHILD
+FONT 8, "MS Sans Serif"
+BEGIN
+    EDITTEXT        IDC_FOLDER,10,81,215,14,ES_AUTOHSCROLL
+    LTEXT           "FTP Upload Folder",IDC_STATIC,10,70,90,8
+    EDITTEXT        IDC_HTTPPATH,10,108,215,14,ES_AUTOHSCROLL
+    LTEXT           "HTTP Path",IDC_STATIC,10,100,80,8
+    EDITTEXT        IDC_NAME,10,15,215,14,ES_AUTOHSCROLL
+    LTEXT           "Unique name to identify this server",IDC_STATIC,10,5,
+                    180,8
+    EDITTEXT        IDC_ADDR,10,49,215,14,ES_AUTOHSCROLL
+    LTEXT           "Server Address  ( Ex: ftp.wheresjames.com )",IDC_STATIC,
+                    10,39,180,8
+END
+
+IDD_EMAILLIST DIALOG DISCARDABLE  0, 0, 246, 181
+STYLE WS_CHILD
+FONT 8, "MS Sans Serif"
+BEGIN
+    CONTROL         "List1",IDC_LIST,"SysListView32",LVS_REPORT | 
+                    LVS_SINGLESEL | LVS_SHOWSELALWAYS | WS_BORDER | 
+                    WS_TABSTOP,5,46,230,119
+    PUSHBUTTON      "Remove",IDC_REMOVE,160,30,35,14
+    PUSHBUTTON      "Add",IDC_ADD,120,30,35,14
+    LTEXT           "E-Mail Servers",IDC_STATIC,5,35,90,8
+    PUSHBUTTON      "Edit",IDC_EDIT,200,30,35,14
+    ICON            IDI_LETTER,IDC_STATIC,5,5,20,20
+END
+
+IDD_WZEMAIL_PG1 DIALOG DISCARDABLE  0, 0, 236, 131
+STYLE WS_CHILD
+FONT 8, "MS Sans Serif"
+BEGIN
+    EDITTEXT        IDC_NAME,10,30,215,14,ES_AUTOHSCROLL
+    LTEXT           "Unique name to identify this server",IDC_STATIC,10,20,
+                    180,8
+    EDITTEXT        IDC_SERVER,10,79,215,14,ES_AUTOHSCROLL
+    LTEXT           "SMTP Server  ( such as mail.wheresjames.com )",
+                    IDC_STATIC,10,70,160,8
+END
+
+IDD_WZEMAIL_PG2 DIALOG DISCARDABLE  0, 0, 236, 131
+STYLE WS_CHILD
+FONT 8, "MS Sans Serif"
+BEGIN
+    GROUPBOX        "",IDC_STATIC,5,10,225,105
+    CONTROL         "Server Requires Login",IDC_LOGIN,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,10,10,100,10
+    EDITTEXT        IDC_USERNAME,20,45,90,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_PASSWORD,125,45,90,14,ES_PASSWORD | ES_AUTOHSCROLL
+    CONTROL         "Auto detect authentication type",IDC_AUTHDETECT,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,15,75,160,10
+    COMBOBOX        IDC_AUTHTYPE,15,86,205,70,CBS_DROPDOWNLIST | WS_VSCROLL | 
+                    WS_TABSTOP
+    LTEXT           "Username",IDC_STATIC,20,35,65,8
+    LTEXT           "Password",IDC_STATIC,125,35,55,8
+END
+
+IDD_WZ_SAVE DIALOG DISCARDABLE  0, 0, 246, 181
+STYLE WS_CHILD
+FONT 8, "MS Sans Serif"
+BEGIN
+    EDITTEXT        IDC_FOLDER,5,85,210,14,ES_AUTOHSCROLL
+    LTEXT           "Folder in which to save images",IDC_STATIC,5,75,130,8
+    PUSHBUTTON      "",IDC_CHOOSE_FOLDER,220,85,21,14
+END
+
+IDD_WZ_EMAILINFO DIALOG DISCARDABLE  0, 0, 246, 181
+STYLE WS_CHILD
+FONT 8, "MS Sans Serif"
+BEGIN
+    COMBOBOX        IDC_TO,45,5,195,95,CBS_DROPDOWN | CBS_SORT | WS_VSCROLL | 
+                    WS_TABSTOP
+    COMBOBOX        IDC_FROM,45,25,195,100,CBS_DROPDOWN | CBS_SORT | 
+                    WS_VSCROLL | WS_TABSTOP
+    EDITTEXT        IDC_SUBJECT,45,45,195,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_MSG,5,65,235,110,ES_MULTILINE | ES_AUTOHSCROLL | 
+                    ES_WANTRETURN | WS_VSCROLL | WS_HSCROLL
+    RTEXT           "To",IDC_STATIC,5,7,35,8
+    RTEXT           "From",IDC_STATIC,5,28,35,8
+    RTEXT           "Subject",IDC_STATIC,5,45,35,8
+END
+
+IDD_MESSAGEVIEW DIALOG DISCARDABLE  0, 0, 251, 160
+STYLE WS_MINIMIZEBOX | WS_POPUP | WS_CAPTION | WS_SYSMENU | WS_THICKFRAME
+CAPTION "Event Log"
+FONT 8, "MS Sans Serif"
+BEGIN
+    CONTROL         "List1",IDC_MV_LIST,"SysListView32",LVS_REPORT | 
+                    LVS_SINGLESEL | LVS_SHOWSELALWAYS | LVS_NOSORTHEADER | 
+                    WS_BORDER | WS_TABSTOP,5,65,210,75
+    CONTROL         "Popup on critical errors",IDC_MV_POPUP,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,5,145,120,10
+    PUSHBUTTON      "Clear",IDC_MV_CLEAR,165,5,50,14
+    PUSHBUTTON      "Save",IDC_MV_SAVE,165,20,50,14
+    EDITTEXT        IDC_MV_TEXT,5,5,150,45,ES_MULTILINE | ES_AUTOVSCROLL | 
+                    ES_READONLY | ES_WANTRETURN | NOT WS_BORDER
+    ICON            IDR_VPTYPE,IDC_MV_ICON,181,40,20,20,SS_CENTERIMAGE | 
+                    SS_REALSIZEIMAGE
+    CONTROL         "Popup on warnings",IDC_MV_POPUPWARNINGS,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,130,145,110,10
+END
+
+IDD_MESSAGEBOX DIALOG DISCARDABLE  0, 0, 217, 90
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Dialog"
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,160,65,50,14
+    LTEXT           "Static",IDC_MSG,40,15,170,35
+    PUSHBUTTON      "Cancel",IDCANCEL,105,65,50,14
+    ICON            IDR_VPTYPE,IDC_MSGICON,5,5,20,20
+    LTEXT           "",IDC_TIMEOUT,5,68,85,8
+END
+
+IDD_MAINTOOLBAR DIALOG DISCARDABLE  0, 0, 274, 16
+STYLE WS_CHILD | WS_CLIPCHILDREN
+FONT 8, "MS Sans Serif"
+BEGIN
+END
+
+IDD_OVERLAYTOOLBAR DIALOG DISCARDABLE  0, 0, 19, 346
+STYLE WS_CHILD | WS_CLIPCHILDREN
+FONT 8, "MS Sans Serif"
+BEGIN
+END
+
+IDD_IMGVIEW DIALOG DISCARDABLE  0, 0, 262, 198
+STYLE WS_POPUP | WS_CLIPCHILDREN | WS_THICKFRAME
+FONT 8, "MS Sans Serif"
+BEGIN
+    CONTROL         "",IDC_IMG,"Static",SS_BLACKRECT,5,5,250,160
+    CONTROL         "",IDC_TOOLBAR,"Static",SS_BLACKRECT | SS_NOTIFY,5,170,
+                    250,21
+END
+
+IDD_PUBEXTRA DIALOG DISCARDABLE  0, 0, 261, 186
+STYLE WS_CHILD
+FONT 8, "MS Sans Serif"
+BEGIN
+    EDITTEXT        IDC_PB_FRAMES,140,111,40,14,ES_AUTOHSCROLL
+    LTEXT           "Frames",IDC_STATIC,140,100,40,8
+    EDITTEXT        IDC_PB_SECONDS,205,111,40,14,ES_AUTOHSCROLL
+    LTEXT           "Seconds",IDC_STATIC,205,100,40,8
+    CTEXT           "per",IDC_STATIC,182,113,20,8
+    GROUPBOX        "AVI Playback Rate",IDC_STATIC,5,80,250,55
+    CONTROL         "Slider1",IDC_SLIDE_PB_SCALE,"msctls_trackbar32",
+                    TBS_BOTH | TBS_NOTICKS | WS_TABSTOP,10,110,115,15
+    CTEXT           "Slower",IDC_STATIC,15,100,30,8
+    CTEXT           "Faster",IDC_STATIC,90,100,30,8
+    EDITTEXT        IDC_CAP_FRAMES,140,51,40,14,ES_AUTOHSCROLL
+    LTEXT           "Frames",IDC_TXT_CAPFRAMES,140,40,40,8
+    EDITTEXT        IDC_CAP_SECONDS,205,51,40,14,ES_AUTOHSCROLL
+    LTEXT           "Seconds",IDC_TXT_CAPSECONDS,205,40,40,8
+    CTEXT           "per",IDC_TXT_CAPPER,182,52,20,8
+    GROUPBOX        "AVI Capture Rate",IDC_STATIC,5,5,250,70
+    CONTROL         "Slider1",IDC_SLIDE_CAP_SCALE,"msctls_trackbar32",
+                    TBS_BOTH | TBS_NOTICKS | WS_TABSTOP,10,49,115,15
+    CTEXT           "Slower",IDC_TXT_CAPSLOWER,15,40,30,8
+    CTEXT           "Faster",IDC_TXT_CAPFASTER,90,40,30,8
+    GROUPBOX        "",IDC_STATIC,5,140,250,40
+    COMBOBOX        IDC_CODEC,15,156,175,90,CBS_DROPDOWNLIST | CBS_SORT | 
+                    WS_VSCROLL | WS_TABSTOP
+    PUSHBUTTON      "Settings",IDC_SETTINGS,195,155,50,14
+    CONTROL         "Compress Video",IDC_COMPRESS,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,10,140,82,10
+    CONTROL         "Capture frames with motion",IDC_CAPMOTION,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,15,20,115,10
+END
+
+IDD_VIDEOSETTINGS DIALOG DISCARDABLE  0, 0, 246, 181
+STYLE WS_CHILD
+FONT 8, "MS Sans Serif"
+BEGIN
+    CONTROL         "",IDC_IMAGE,"Static",SS_BLACKRECT | SS_SUNKEN | 
+                    WS_BORDER,115,29,125,85
+    COMBOBOX        IDC_DRIVER,5,10,235,105,CBS_DROPDOWNLIST | CBS_SORT | 
+                    WS_VSCROLL | WS_TABSTOP
+    EDITTEXT        IDC_FRAMERATE,5,44,95,14,ES_AUTOHSCROLL
+    LTEXT           "Frame Rate",IDC_STATIC,5,34,60,8
+    CONTROL         "Frame Averaging",IDC_FRAMEAVG,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,5,129,80,10
+    CONTROL         "Slider1",IDC_SLIDE_FRAMEAVG,"msctls_trackbar32",
+                    TBS_BOTH | TBS_NOTICKS | WS_TABSTOP,15,143,225,15
+    COMBOBOX        IDC_SETTINGS,5,74,100,87,CBS_DROPDOWNLIST | WS_VSCROLL | 
+                    WS_TABSTOP
+    LTEXT           "Settings",IDC_STATIC,5,63,80,8
+    PUSHBUTTON      "Video Effects",IDC_EFFECTS,5,98,100,14
+END
+
+IDD_LOGTARGET DIALOGEX 0, 0, 186, 90
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION
+EXSTYLE WS_EX_TOOLWINDOW
+CAPTION "Log Target"
+FONT 8, "MS Sans Serif", 0, 0, 0x1
+BEGIN
+END
+
+
+#ifndef _MAC
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,99,0,4
+ PRODUCTVERSION 1,99,0,4
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904b0"
+        BEGIN
+            VALUE "Comments", "Programmer: Robert Umbehant\0"
+            VALUE "CompanyName", "WheresJames Software\0"
+            VALUE "FileDescription", "Webcam Publisher\0"
+            VALUE "FileVersion", "1, 99, 0, 4\0"
+            VALUE "InternalName", "Webcam Publisher\0"
+            VALUE "LegalCopyright", "Copyright (C) 2003\0"
+            VALUE "LegalTrademarks", "\0"
+            VALUE "OriginalFilename", "Vp.exe\0"
+            VALUE "PrivateBuild", "\0"
+            VALUE "ProductName", "Webcam Publisher\0"
+            VALUE "ProductVersion", "1, 99, 0, 4\0"
+            VALUE "SpecialBuild", "\0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x409, 1200
+    END
+END
+
+#endif    // !_MAC
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO DISCARDABLE 
+BEGIN
+    IDD_CHOOSEDRIVER, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 275
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 104
+    END
+
+    CG_IDD_PUBIMGVIEW, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 259
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 29
+    END
+
+    CG_IDD_SERVER, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 434
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 19
+    END
+
+    IDD_NEWPUBIMG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 270
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 200
+    END
+
+    IDD_PROPERTIES, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 260
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 104
+    END
+
+    IDD_PG_DATE, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 249
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 84
+    END
+
+    IDD_PG_DRAWINGORDER, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 249
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 84
+    END
+
+    IDD_PG_IMAGE, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 249
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 84
+    END
+
+    IDD_PG_RECT, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 249
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 84
+    END
+
+    IDD_PG_TEXT, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 250
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 83
+    END
+
+    IDD_PG_TEXTFLAGS, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 250
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 83
+    END
+
+    IDD_PG_TIME, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 249
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 84
+    END
+
+    IDD_PG_TRANS, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 249
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 89
+    END
+
+    IDD_ABOUTBOX, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 285
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 63
+    END
+
+    IDD_PG_VIDEO, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 249
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 84
+    END
+
+    IDD_GENERAL, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 239
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 174
+    END
+
+    IDD_SETTINGS, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 375
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 219
+    END
+
+    IDD_ONCLOSE, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 179
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 83
+    END
+
+    IDD_SPLASH, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 199
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 164
+    END
+
+    IDD_SERVER, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 239
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 174
+    END
+
+    IDD_SERVERMAP, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 239
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 174
+    END
+
+    IDD_SERVERLOG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 239
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 174
+    END
+
+    IDD_MAPIMAGE, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 215
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 95
+    END
+
+    IDD_MAPFOLDER, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 250
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 95
+    END
+
+    IDD_PG_STEXT, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 249
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 84
+    END
+
+    IDD_PG_SCREENSHOT, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 249
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 84
+    END
+
+    IDD_FTP, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 239
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 174
+    END
+
+    IDD_PUBLISHING, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 239
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 174
+    END
+
+    IDD_PUBWHAT, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 255
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 159
+    END
+
+    IDD_PUBWHERE, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 255
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 174
+    END
+
+    IDD_PUBFRAME, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 270
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 239
+    END
+
+    IDD_WZ_FRAME, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 340
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 250
+    END
+
+    IDD_PUBWHEN, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 254
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 159
+    END
+
+    IDD_INFORM, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 179
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 66
+    END
+
+    IDD_PUBHOW, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 254
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 179
+    END
+
+    IDD_TIP, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 245
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 149
+    END
+
+    IDD_UPDATECHECK, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 190
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 39
+    END
+
+    IDD_IMGFXEDITOR, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 335
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 194
+    END
+
+    IDD_EDITPARAMS, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 275
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 130
+    END
+
+    IDD_EMAILSETTINGS, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 239
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 174
+    END
+
+    IDD_COMPOSEMAIL, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 305
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 194
+    END
+
+    IDD_REGISTER, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 339
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 227
+    END
+
+    IDD_PURCHASE, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 320
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 179
+    END
+
+    IDD_REGBROWSER, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 325
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 181
+    END
+
+    IDD_MOTION, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 239
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 174
+    END
+
+    IDD_PG_BCKIMG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 249
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 84
+    END
+
+    IDD_PG_IMAGEPROP, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 249
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 84
+    END
+
+    IDD_PUBTHUMBNAIL, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 254
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 179
+    END
+
+    IDD_LOGFILES, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 239
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 174
+    END
+
+    IDD_EDITPARAM, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 75
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 24
+    END
+
+    IDD_PROP, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 171
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 194
+    END
+
+    IDD_PROPBAR, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 179
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 174
+    END
+
+    IDD_CGI, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 239
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 174
+    END
+
+    IDD_ADDCGI, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 230
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 130
+    END
+
+    IDD_HTMLBUILD, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 445
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 283
+    END
+
+    IDD_HTMLPUBLISH, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 305
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 199
+    END
+
+    IDD_UPLOAD, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 275
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 69
+    END
+
+    IDD_JPGSETTINGS, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 239
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 174
+    END
+
+    IDD_PG_CHROMAKEY, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 249
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 84
+    END
+
+    IDD_PG_CHROMABCK, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 249
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 84
+    END
+
+    IDD_WZ_CAM, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 269
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 179
+    END
+
+    IDD_WZ_WELCOME, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 254
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 174
+    END
+
+    IDD_WZ_PUBTYPE, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 259
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 124
+    END
+
+    IDD_WZ_LOCALSERVER, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 264
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 179
+    END
+
+    IDD_PAGEFRAME, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 275
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 250
+    END
+
+    IDD_SIMPLE, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 429
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 263
+    END
+
+    IDD_PG_MASK, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 249
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 84
+    END
+
+    IDD_SIMPLESETTINGS, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 285
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 184
+    END
+
+    IDD_CHAT, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 239
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 174
+    END
+
+    IDD_PUBSOUNDS, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 254
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 179
+    END
+
+    IDD_PG_URL, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 249
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 84
+    END
+
+    IDD_WZFTP_FRAME, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 240
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 194
+    END
+
+    IDD_FTPLIST, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 239
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 174
+    END
+
+    IDD_WZFTP_PG2, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 229
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 124
+    END
+
+    IDD_WZFTP_PG1, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 229
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 124
+    END
+
+    IDD_EMAILLIST, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 239
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 174
+    END
+
+    IDD_WZEMAIL_PG1, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 229
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 124
+    END
+
+    IDD_WZEMAIL_PG2, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 229
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 124
+    END
+
+    IDD_WZ_SAVE, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 239
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 174
+    END
+
+    IDD_WZ_EMAILINFO, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 239
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 174
+    END
+
+    IDD_MESSAGEVIEW, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 244
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 153
+    END
+
+    IDD_MESSAGEBOX, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 210
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 83
+    END
+
+    IDD_MAINTOOLBAR, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 267
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 9
+    END
+
+    IDD_OVERLAYTOOLBAR, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 12
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 290
+    END
+
+    IDD_IMGVIEW, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 255
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 191
+    END
+
+    IDD_PUBEXTRA, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 254
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 179
+    END
+
+    IDD_VIDEOSETTINGS, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 239
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 174
+    END
+
+    IDD_LOGTARGET, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 179
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 83
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Cursor
+//
+
+IDP_DATE                CURSOR  DISCARDABLE     "res\\cur00001.cur"
+IDP_IMAGE               CURSOR  DISCARDABLE     "res\\cur00002.cur"
+IDP_WATERMARK           CURSOR  DISCARDABLE     "res\\cur00003.cur"
+IDP_RECT                CURSOR  DISCARDABLE     "res\\pointer1.cur"
+IDP_TIME                CURSOR  DISCARDABLE     "res\\pointer.cur"
+IDP_TEXT                CURSOR  DISCARDABLE     "res\\arrow.cur"
+IDP_VIDEO               CURSOR  DISCARDABLE     "res\\cursor1.cur"
+IDP_SCREENSHOT          CURSOR  DISCARDABLE     "res\\screensh.cur"
+IDP_URL                 CURSOR  DISCARDABLE     "res\\cur00004.cur"
+IDP_STEXT               CURSOR  DISCARDABLE     "res\\stext.cur"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// BUFFER
+//
+
+IDR_SHUTDOWN            BUFFER  DISCARDABLE     "res\\ShuttingDown.png"
+IDR_LICENSE             BUFFER  DISCARDABLE     "res\\License.txt"
+IDR_SPLASH              BUFFER  DISCARDABLE     "res\\wcpsplash_256_256.png"
+IDR_TIPS                BUFFER  DISCARDABLE     "res\\tips.txt"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog Info
+//
+
+IDD_REGBROWSER DLGINIT
+BEGIN
+    IDC_WEB, 0x376, 160, 0
+0x0000, 0x0000, 0x004c, 0x0000, 0x314d, 0x0000, 0x1d40, 0x0000, 0x0000, 
+0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 
+0x0000, 0x0000, 0x004c, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0001, 
+0x0000, 0xd0e0, 0x0057, 0x3573, 0x11cf, 0x69ae, 0x0008, 0x2e2b, 0x6212, 
+0x0000, 0x0000, 0x0000, 0x0000, 0x004c, 0x0000, 0x1401, 0x0002, 0x0000, 
+0x0000, 0x00c0, 0x0000, 0x0000, 0x4600, 0x0080, 0x0000, 0x0000, 0x0000, 
+0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 
+0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0001, 0x0000, 
+0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 
+    0
+END
+
+IDD_HTMLBUILD DLGINIT
+BEGIN
+    IDC_WEB, 0x376, 160, 0
+0x0000, 0x0000, 0x004c, 0x0000, 0x2c3c, 0x0000, 0x2bb8, 0x0000, 0x0000, 
+0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 
+0x0000, 0x0000, 0x004c, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0001, 
+0x0000, 0xd0e0, 0x0057, 0x3573, 0x11cf, 0x69ae, 0x0008, 0x2e2b, 0x6212, 
+0x0008, 0x0000, 0x0000, 0x0000, 0x004c, 0x0000, 0x1401, 0x0002, 0x0000, 
+0x0000, 0x00c0, 0x0000, 0x0000, 0x4600, 0x0080, 0x0000, 0x0000, 0x0000, 
+0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 
+0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0001, 0x0000, 
+0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 0x0000, 
+    0
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// HTML
+//
+
+IDH_ADMIN               HTML    DISCARDABLE     "res\\admin.htm"
+IDH_PWD                 HTML    DISCARDABLE     "res\\pwd.htm"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// WAVE
+//
+
+IDW_ALARM               WAVE    DISCARDABLE     "res\\alarm.wav"
+IDW_CAMERA              WAVE    DISCARDABLE     "res\\camera.wav"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE PRELOAD DISCARDABLE 
+BEGIN
+    IDR_MAINFRAME           "Vp\n\nVp\n\n\nVp.Document\nVp Document"
+END
+
+STRINGTABLE PRELOAD DISCARDABLE 
+BEGIN
+    AFX_IDS_APP_TITLE       "Vp"
+    AFX_IDS_IDLEMESSAGE     "Ready"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_INDICATOR_EXT        "EXT"
+    ID_INDICATOR_CAPS       "CAP"
+    ID_INDICATOR_NUM        "NUM"
+    ID_INDICATOR_SCRL       "SCRL"
+    ID_INDICATOR_OVR        "OVR"
+    ID_INDICATOR_REC        "REC"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_FILE_NEW             "Create a new document\nNew"
+    ID_FILE_OPEN            "Open an existing document\nOpen"
+    ID_FILE_CLOSE           "Close the active document\nClose"
+    ID_FILE_SAVE            "Save the active document\nSave"
+    ID_FILE_SAVE_AS         "Save the active document with a new name\nSave As"
+    ID_FILE_PAGE_SETUP      "Change the printing options\nPage Setup"
+    ID_FILE_PRINT_SETUP     "Change the printer and printing options\nPrint Setup"
+    ID_FILE_PRINT           "Print the active document\nPrint"
+    ID_FILE_PRINT_PREVIEW   "Display full pages\nPrint Preview"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_APP_ABOUT            "Display program information, version number and copyright\nAbout"
+    ID_APP_EXIT             "Quit the application; prompts to save documents\nExit"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_FILE_MRU_FILE1       "Open this document"
+    ID_FILE_MRU_FILE2       "Open this document"
+    ID_FILE_MRU_FILE3       "Open this document"
+    ID_FILE_MRU_FILE4       "Open this document"
+    ID_FILE_MRU_FILE5       "Open this document"
+    ID_FILE_MRU_FILE6       "Open this document"
+    ID_FILE_MRU_FILE7       "Open this document"
+    ID_FILE_MRU_FILE8       "Open this document"
+    ID_FILE_MRU_FILE9       "Open this document"
+    ID_FILE_MRU_FILE10      "Open this document"
+    ID_FILE_MRU_FILE11      "Open this document"
+    ID_FILE_MRU_FILE12      "Open this document"
+    ID_FILE_MRU_FILE13      "Open this document"
+    ID_FILE_MRU_FILE14      "Open this document"
+    ID_FILE_MRU_FILE15      "Open this document"
+    ID_FILE_MRU_FILE16      "Open this document"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_NEXT_PANE            "Switch to the next window pane\nNext Pane"
+    ID_PREV_PANE            "Switch back to the previous window pane\nPrevious Pane"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_WINDOW_SPLIT         "Split the active window into panes\nSplit"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_EDIT_CLEAR           "Erase the selection\nErase"
+    ID_EDIT_CLEAR_ALL       "Erase everything\nErase All"
+    ID_EDIT_COPY            "Copy the selection and put it on the Clipboard\nCopy"
+    ID_EDIT_CUT             "Cut the selection and put it on the Clipboard\nCut"
+    ID_EDIT_FIND            "Find the specified text\nFind"
+    ID_EDIT_PASTE           "Insert Clipboard contents\nPaste"
+    ID_EDIT_REPEAT          "Repeat the last action\nRepeat"
+    ID_EDIT_REPLACE         "Replace specific text with different text\nReplace"
+    ID_EDIT_SELECT_ALL      "Select the entire document\nSelect All"
+    ID_EDIT_UNDO            "Undo the last action\nUndo"
+    ID_EDIT_REDO            "Redo the previously undone action\nRedo"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_VIEW_TOOLBAR         "Show or hide the toolbar\nToggle ToolBar"
+    ID_VIEW_STATUS_BAR      "Show or hide the status bar\nToggle StatusBar"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    AFX_IDS_SCSIZE          "Change the window size"
+    AFX_IDS_SCMOVE          "Change the window position"
+    AFX_IDS_SCMINIMIZE      "Reduce the window to an icon"
+    AFX_IDS_SCMAXIMIZE      "Enlarge the window to full size"
+    AFX_IDS_SCNEXTWINDOW    "Switch to the next document window"
+    AFX_IDS_SCPREVWINDOW    "Switch to the previous document window"
+    AFX_IDS_SCCLOSE         "Close the active window and prompts to save the documents"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    AFX_IDS_SCRESTORE       "Restore the window to normal size"
+    AFX_IDS_SCTASKLIST      "Activate Task List"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    AFX_IDS_PREVIEW_CLOSE   "Close print preview mode\nCancel Preview"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_TRAYICON_EMAILIMAGE  "E-Mail Image\nE-mail Image"
+    IDP_OLE_INIT_FAILED     "OLE Initialization Failed"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    CG_ID_VIEW_PUBIMGVIEW   "Show or hide images view\nToggle Images View"
+    CG_IDS_DIDYOUKNOW       "Did you know..."
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_ENABLEPUBLISHING     "Toggle publishing on/off\nEnable Publishing"
+    ID_INSERTTEXT           "Insert Text\nText"
+    ID_INSERTTIME           "Insert Time Stamp\nTime Stamp"
+    ID_INSERTDATE           "Insert Date Stamp\nDate Stamp"
+    ID_INSERTIMAGE          "Insert Image File\nImage"
+    ID_INSERTRECT           "Insert Rectangle\nRectangle"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_INSERTWATERMARK      "Insert Watermark\nWatermark"
+    ID_INSERTLINK           "Insert Internet Link\n Internet Link"
+    ID_INSERTVIDEO          "Insert Live Video\nVideo"
+    ID_SAVEIMAGE            "Save image to disk\nSave Image"
+    ID_INSERTURL            "Internet Image\nInternet Image"
+    ID_OPTIONS_SETUPWIZARD  "Opens the setup wizard\nSetup Wizard"
+    ID_OPTIONS_SETTINGS     "Opens the settings dialog box\nSettings"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    CG_ID_VIEW_INSERT       "Show or hide overlay element insert bar\nInsert Bar"
+    ID_NEWIMAGE             "Create new image\nNew Image"
+    ID_DELETEIMAGE          "Delete current image\nDelete Image"
+    ID_REFRESH              "Video Refresh\nVideo Refresh"
+    ID_INSERTSCREENSHOT     "Insert Screen Capture\nScreen Capture"
+    ID_INSERTSTEXT          "Insert Special Text\nSpecial Text"
+    ID_EDIT_PROPERTIES      "Opens the properties dialog box\nProperties"
+    ID_OPTIONS_HTMLBUILDER  "Opens the HTML Builder Dialog Box\nHTML Builder"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_SIMPLE               "Switches to Capture Mode\nCapture Mode"
+    ID_SETUPSIMPLE          "Setup Capture Mode\nSetup Capture Mode"
+END
+
+#endif    // English (U.S.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE 9, 1
+#pragma code_page(1252)
+#endif
+#include "res\Vp.rc2"  // non-Microsoft Visual C++ edited resources
+#include "afxres.rc"         // Standard components
+#include "afxprint.rc"       // printing/print preview resources
+#endif
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

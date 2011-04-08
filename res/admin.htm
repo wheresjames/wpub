@@ -1,0 +1,99 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+	<head>
+		<title></title>
+		<meta content="True" name="vs_showGrid">
+	</head>
+	<body>
+		<center>&nbsp;</center>
+		<center>&nbsp;</center>
+
+		<form action="<!--$$$formaction-->" method="post">
+			<center>
+				<table border="1" cellpadding="2" cellspacing="0" width="90%">
+				<tr><td>
+
+				<table border="0" cellpadding="8" cellspacing="2" width="100%">
+					<tr>
+						<td width="50%" bgcolor="#dfefff">
+							Users Online <font size="4" color="#008000"><!--$$$users_online--></font>
+						</td>
+						<td bgcolor="#dfefff">
+							Total Hits <font size="4" color="#008000"><!--$$$total_hits--></font>
+						</td>
+					</tr>
+					
+					<tr>
+						<td bgcolor="#dfefff">
+							<input type="checkbox" name="guest_access" <!--$$$guest_access_state--> > 
+							Enable Guest Access
+						</td>
+						<td bgcolor="#dfefff">
+							<input type="checkbox" name="require_password" <!--$$$require_password_state--> >
+							Require Guest Password
+						</td>
+					</tr>
+					
+					<tr>
+						<td bgcolor="#dfefff">
+							TCP Port <input name="tcp_port" value="<!--$$$tcp_port-->" >							  
+						</td>
+						<td bgcolor="#dfefff">
+							Max Users <input name="max_users" value="<!--$$$max_users-->" >
+						</td>
+					</tr>
+				</table>
+				</td></tr>
+
+				<tr>
+					<td>
+						<table border="0" cellpadding="8" cellspacing="2" width="100%">
+							<tr>
+								<td bgcolor="#dfefff">
+									&nbsp;&nbsp;&nbsp;Password&nbsp;&nbsp;&nbsp; 
+									<input name="password" type="password">
+									<input type="submit" value="Update">
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+				</table>
+			
+			&nbsp;
+			
+		</form>
+
+		<center>&nbsp;</center>
+
+		<table border="0" cellpadding="8" cellspacing="2" width="90%">
+			<form action="<!--$$$formaction-->" method="post">
+  <TBODY>
+					<tr>
+						<td bgcolor="#c02000">
+							<font size="4">Restart Application</font>						
+						</td>
+						<td bgcolor="#c02000">
+							Password&nbsp;&nbsp;&nbsp; 
+							<input name="restart" type="password">
+							<input type="submit" value="Restart" >
+						</td>
+					</tr>
+			</form>
+
+			<form action="<!--$$$formaction-->" method="post">
+					<tr>
+						<td bgcolor="#c02000">
+							<font size="4">Reboot Computer</font>
+						</td>
+						<td bgcolor="#c02000">
+							Password&nbsp;&nbsp;&nbsp; 
+							<input name="reboot" type="password" >
+							<input type="submit" value="Reboot">
+						</td>
+					</tr>
+			</form></TBODY>
+		</table></CENTER>
+
+	</body>
+</html>
